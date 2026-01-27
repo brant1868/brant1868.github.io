@@ -24,13 +24,13 @@ repository               : "brant1868/brant1868.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Ke Bi"
+  # pronouns         : # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
+  location         : "UK"
+  employer         : "The University of Edinburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "brantbi1868@gmail.com"
 
   # Academic websites
   academia         : # URL
