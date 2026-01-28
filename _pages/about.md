@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-[CV](https://brant1868.github.io/)
-[Download CV](https://brant1868.github.io/files/CV.pdf){: .btn .btn--primary }
-[CV (PDF)](https://brant1868.github.io/files/CV.pdf){: .btn .btn--info }
-[CV](https://brant1868.github.io/files/CV.pdf){: .btn .btn--inverse }
+[CV-EN](https://brant1868.github.io/files/CV.pdf){: .btn .btn--info }
+[CV-中文](https://brant1868.github.io/files/CV.pdf){: .btn .btn--info }
 
 
 Academic Background
