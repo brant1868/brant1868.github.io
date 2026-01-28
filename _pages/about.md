@@ -44,7 +44,7 @@ The University of Edinburgh, Business School
 
 2024-2025: Teaching Assistant for Principles of Finance (Instructor: Yue Liu): Score of Course Enhancement Questionnaire: 4/5
 
-2022-2023: Guest Lecture: Empirically Asset Pricing (Main Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions
+2022-2023: Guest Lecture: Empirically Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions
 
 Industry Working Experiences
 ------
