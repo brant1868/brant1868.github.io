@@ -16,7 +16,7 @@ Academic Background
 
 Research and Teaching Interests
 ------
-My research and teaching interests involve corporate finance, asset pricing, and behavioral finance. Within corporate finance, my research addresses capital structure, financing and new issues, dividend policy, capital expenditures, mergers and acquisitions, and foreign direct investment, and I approach these topics from the perspective of behavioral mechanisms such as catering, market timing, and reference point thinking. Within asset pricing, my research addresses stock and bond return characteristics, investor sentiment, index-driven investment, benchmarking, performance evaluation, and ESG. 
+My research and teaching interests involve corporate finance, the economics of data and AI, and behavioral finance. Within corporate finance, my research addresses mergers and acquisitions, convertible securities, and capital expenditures. Within the economics of data and AI, my research addresses how firms’ data assets and AI capital shape corporate policies, market outcomes, and the broader economy. Within behavioral finance, my research addresses how managerial biases and investor psychology influence firm decisions. 
 
 
 Working Papers
