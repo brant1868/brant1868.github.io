@@ -14,9 +14,10 @@ My research and teaching interests involve corporate finance, asset pricing, and
 
 Working Papers
 ------
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- [The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). Working Paper.
+- [A Win-to-win Explanation of Extraordinary Acquirers](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
+- [Firm-level Data Assets and Inorganic Growth](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
+- [Firm-level Data Assets and Organic Growth](https://brant1868.github.io/) (Job Market Paper). Working Paper.
 
 
 Teaching
