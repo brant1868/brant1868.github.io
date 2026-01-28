@@ -10,8 +10,8 @@ redirect_from:
 Academic Background
 ------
 - PhD, Finance, The University of Edinburgh
-- Master, Finance, The University of Melbourne
-- Bachelor, Accounting and Finance, The University of Melbourne
+- Master, Finance, The University of Melbourne; GPA(3.92/4, Top10%)
+- Bachelor, Accounting and Finance, The University of Melbourne; GPA(3.96/4, Top10%)
 
 
 Research and Teaching Interests
