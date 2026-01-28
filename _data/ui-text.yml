@@ -41,6 +41,8 @@ en: &DEFAULT_EN
   loading_label              : "Loading..."
 en-US:
   <<: *DEFAULT_EN
+en-UK:
+  <<: *DEFAULT_EN
 en-CA:
   <<: *DEFAULT_EN
 en-GB:
