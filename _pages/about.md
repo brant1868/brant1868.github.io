@@ -17,7 +17,7 @@ Working Papers
 - [The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). Working Paper.
 - [A Win-to-win Explanation of Extraordinary Acquirers](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
 - [Firm-level Data Assets and Inorganic Growth](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
-- [Firm-level Data Assets and Organic Growth](https://brant1868.github.io/) (Job Market Paper). Working Paper.
+- [Firm-level Data Assets and Organic Growth](https://brant1868.github.io/) (Solo). Working Paper.
 
 
 Teaching
