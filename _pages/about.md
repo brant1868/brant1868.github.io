@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+Academic Background
+------
+PhD, Finance, The University of Edinburgh
+Master, Finance, The University of Melbourne
+Bachelor, Accounting and Finance, The University of Melbourne
+
+
 Research and Teaching Interests
 ------
 My research and teaching interests involve corporate finance, asset pricing, and behavioral finance. Within corporate finance, my research addresses capital structure, financing and new issues, dividend policy, capital expenditures, mergers and acquisitions, and foreign direct investment, and I approach these topics from the perspective of behavioral mechanisms such as catering, market timing, and reference point thinking. Within asset pricing, my research addresses stock and bond return characteristics, investor sentiment, index-driven investment, benchmarking, performance evaluation, and ESG. 
