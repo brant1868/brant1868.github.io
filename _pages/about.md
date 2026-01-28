@@ -21,17 +21,17 @@ My research and teaching interests involve corporate finance, asset pricing, and
 
 Working Papers
 ------
-[The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). Working Paper.
+[The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
 - Main findings: The target reference point effect depends on the percentage of noise in the target share price. The reference point effect might not always be value-destroying.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
-[A Win-to-win Explanation of Extraordinary Acquirers](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
+[A Win-to-win Explanation of Extraordinary Acquirers](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
 - Main findings: Acquirers’ high-return previous takeover deal can lead to higher returns in the subsequent deal when it fosters information production about the acquirer.
 
-[Firm-level Data Assets and Inorganic Growth](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
+[Firm-level Data Assets and Inorganic Growth](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
 - Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities.
 
-[Firm-level Data Assets and Organic Growth](https://brant1868.github.io/) (Single Author). Working Paper.
+[Firm-level Data Assets and Organic Growth](https://brant1868.github.io/) (Single Author). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
 
 
