@@ -21,17 +21,17 @@ My research and teaching interests involve corporate finance, the economics of d
 
 Working Papers
 ------
-[The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
+[The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://drive.google.com/file/d/1qwA9J_qWvBtJ6pgPMzsKkwzsm6qDYNI8/view?usp=sharing) (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
 - Main findings: The target reference point effect depends on the percentage of noise in the target share price. The reference point effect might not always be value-destroying.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
-[A Win-to-win Explanation of Extraordinary Acquirers](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
+[A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing) (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
 - Main findings: Acquirers’ high-return previous takeover deal can lead to higher returns in the subsequent deal when it fosters information production about the acquirer.
 
-[Firm-level Data Assets and Inorganic Growth](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
+[Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing) (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
 - Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities.
 
-[Firm-level Data Assets and Organic Growth](https://brant1868.github.io/) (Single Author). _Working Paper_.
+[Firm-level Data Assets and Organic Growth](https://drive.google.com/file/d/1klYKdukRMUSLw6P7VQnuZ8D52xy8milx/view?usp=sharing) (Single Author). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
 
 
