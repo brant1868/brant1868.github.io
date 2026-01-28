@@ -31,6 +31,9 @@ Working Papers
 [Firm-level Data Assets and Inorganic Growth](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
 - Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities.
 
+[Firms' Convertible debts and Mergers and Acquisitions](https://brant1868.github.io/) (with Leonidas G. Barbopoulos). _Working Paper_.
+- Main findings: Convertible debts induce firm-level value-destroying acquisition activities.
+
 [Firm-level Data Assets and Organic Growth](https://brant1868.github.io/) (Single Author). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
 
