@@ -19,11 +19,13 @@ Working Papers
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
 [A Win-to-win Explanation of Extraordinary Acquirers](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
-- Main findings: 
+- Main findings: Acquirers’ high-return previous takeover deal can lead to higher returns in the subsequent deal when it fosters information production about the acquirer.
+
 [Firm-level Data Assets and Inorganic Growth](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
-- Main findings: 
+- Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities.
+
 [Firm-level Data Assets and Organic Growth](https://brant1868.github.io/) (Single Author). Working Paper.
-- Main findings: 
+- Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
 
 
 Teaching
