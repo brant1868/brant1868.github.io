@@ -53,8 +53,9 @@ Industry Working Experiences
 - Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department  
 
 
-Prizes and Awards
+Prizes, Awards, and Grants
 ------
+- 2025 The American Finance Association PhD Student Travel Grant
 - 2018 Faculty of Business and Economics Subject Prize, The University of Melbourne 
 
 Skills
