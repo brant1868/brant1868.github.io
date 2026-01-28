@@ -22,7 +22,7 @@ My research and teaching interests involve corporate finance, asset pricing, and
 Working Papers
 ------
 [The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). Working Paper.
-- Main findings: The target reference point effect depends on the percentage of noise in the target share price, and the effect might not always be value-destroying.
+- Main findings: The target reference point effect depends on the percentage of noise in the target share price. The reference point effect might not always be value-destroying.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
 [A Win-to-win Explanation of Extraordinary Acquirers](https://brant1868.github.io/) (with Leonidas G. Barbopoulos, and Yue Liu). Working Paper.
