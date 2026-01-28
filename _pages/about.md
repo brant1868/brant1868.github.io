@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+[CV](https://brant1868.github.io/)
+
 Academic Background
 ------
 - PhD, Finance, The University of Edinburgh
