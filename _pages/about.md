@@ -9,9 +9,9 @@ redirect_from:
 
 Academic Background
 ------
-PhD, Finance, The University of Edinburgh
-Master, Finance, The University of Melbourne
-Bachelor, Accounting and Finance, The University of Melbourne
+- PhD, Finance, The University of Edinburgh
+- Master, Finance, The University of Melbourne
+- Bachelor, Accounting and Finance, The University of Melbourne
 
 
 Research and Teaching Interests
