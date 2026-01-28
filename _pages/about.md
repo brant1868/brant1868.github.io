@@ -38,13 +38,9 @@ Working Papers
 Teaching & Research Assistants
 ------
 The University of Edinburgh, Business School
-2025-2026
-- Teaching Assistant for Principles of Finance (Instructor: Yue Liu)
-- Teaching Assistant for Applications of Finance (Instructor: Khaladdin Rzayev)
-
-2024-2025: Teaching Assistant for Principles of Finance (Instructor: Yue Liu): Score of Course Enhancement Questionnaire: 4/5
-
-2022-2023: Guest Lecture: Empirically Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions
+- Teaching Assistant for Principles of Finance (Instructor: Yue Liu); 2025-2026 and 2024-2025 (Course Enhancement Questionnaire: 4/5)
+- Teaching Assistant for Applications of Finance (Instructor: Khaladdin Rzayev) 2025-2026
+- Guest Lecture: Empirically Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023
 
 Industry Working Experiences
 ------
