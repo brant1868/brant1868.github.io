@@ -25,7 +25,7 @@ My research and teaching interests involve corporate finance, the economics of d
 
 Working Papers
 ------
-[The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://drive.google.com/file/d/1qwA9J_qWvBtJ6pgPMzsKkwzsm6qDYNI8/view?usp=sharing) (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
+[The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://drive.google.com/file/d/1qwA9J_qWvBtJ6pgPMzsKkwzsm6qDYNI8/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
 - Main findings: The target reference point effect depends on the percentage of noise in the target share price. The reference point effect might not always be value-destroying.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
