@@ -16,7 +16,7 @@ Academic Background
 
 Research and Teaching Interests
 ------
-My research and teaching interests involve corporate finance, the economics of data and AI, and behavioral finance. Within corporate finance, my research addresses mergers and acquisitions, convertible securities, and capital expenditures. Within the economics of data and AI, my research addresses how firms’ data assets and AI capital shape corporate policies, market outcomes, and the broader economy. Within behavioral finance, my research addresses how managerial biases and investor psychology influence firm decisions. 
+My research and teaching interests involve corporate finance, the economics of data and AI, and behavioral finance. Within corporate finance, my research addresses mergers and acquisitions, capital expenditures, and convertible securities. Within the economics of data and AI, my research addresses how firms’ data assets and AI capital shape corporate policies, market outcomes, and the broader economy. Within behavioral finance, my research addresses how managerial biases and investor psychology influence firm decisions. 
 
 
 Working Papers
