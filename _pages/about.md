@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-[CV-EN](https://drive.google.com/file/d/16KtXQ15SeV4Rngi7hbnSsPaoM5gT51CW/view?usp=sharing){: .btn .btn--info }
-[CV-中文](https://drive.google.com/file/d/13G-kzQTJ_xEng_AKsLnTAMqQEftG-o9_/view?usp=sharing){: .btn .btn--info }
+[CV-EN](https://drive.google.com/file/d/16KtXQ15SeV4Rngi7hbnSsPaoM5gT51CW/view?usp=sharing){: .btn .btn--info target="_blank" }  &nbsp; 
+[CV-中文](https://drive.google.com/file/d/13G-kzQTJ_xEng_AKsLnTAMqQEftG-o9_/view?usp=sharing){: .btn .btn--info target="_blank" }
 
 
 Academic Background
