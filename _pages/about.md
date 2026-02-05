@@ -35,7 +35,7 @@ Working Papers
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
 - Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities.
 
-[Firm-level Data Assets and Organic Growth](https://drive.google.com/file/d/1klYKdukRMUSLw6P7VQnuZ8D52xy8milx/view?usp=sharing){:target="_blank" } (Single Author). _Working Paper_.
+[Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Single Author). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
 
 
