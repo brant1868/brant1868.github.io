@@ -39,12 +39,13 @@ Working Papers
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
 
 
-Teaching & Research Assistants
+Teaching, Research, and Conference Assistants
 ------
 The University of Edinburgh, Business School
 - Teaching Assistant for Principles of Finance (Instructor: Yue Liu); (2025-2026 and 2024-2025; Course Enhancement Questionnaire: 4/5 and 4.75/5)
 - Teaching Assistant for Applications of Finance (Instructor: Khaladdin Rzayev) 2025-2026
 - Guest Lecture: Empirically Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023
+- Conference Assistant for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html)
 
 Industry Working Experiences
 ------
