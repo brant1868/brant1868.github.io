@@ -43,9 +43,9 @@ Teaching, Research, and Conference Assistants
 ------
 The University of Edinburgh, Business School
 - Teaching assistant for Principles of Finance (Instructor: Yue Liu); (2025-2026 and 2024-2025; Course Enhancement Questionnaire: 4/5 and 4.75/5)
-- Teaching assistant for Applications of Finance (Instructor: Khaladdin Rzayev) 2025-2026
+- Teaching assistant for Applications of Finance (Instructor: Khaladdin Rzayev); 2025-2026
 - Guest lecture for Empirically Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023
-- Conference assistant and reviewer for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html) (August-2024)
+- Conference assistant and reviewer for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html); (August-2024)
 
 Industry Working Experiences
 ------
