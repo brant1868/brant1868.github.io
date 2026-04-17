@@ -33,8 +33,8 @@ Working Papers
 - Main findings: Acquirers’ high-return previous takeover deal can lead to higher returns in the subsequent deal when it fosters information production about the acquirer.
 
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
-- Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities.
-- AsiaFA2026(Scheduled)
+- Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities. 
+- AsiaFA2026(Scheduled) 
 
 [Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Single Author). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
