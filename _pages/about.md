@@ -51,7 +51,7 @@ Teaching, Research, and Conference Assistants
 - _Conference assistant and reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html); August-2024
 
 **Other academic leadership experience**
-- _Founding member_ of the Business Statistics Group at Edinburgh Business School and delivered a series of research seminars on empirical research methods, particularly causal identification and mechanism analysis; 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing)
+- _Founding member_ of the Edinburgh Business School Statistics Group; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing)
 
 
 Industry Working Experiences
