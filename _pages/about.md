@@ -45,8 +45,8 @@ Teaching, Research, and Conference Assistants
 <!-- The University of Edinburgh, Business School -->
 **Teaching**
 - _Teaching assistant_ for Principles of Finance (Undergraduate; Instructor: Yue Liu); (2025-2026 and 2024-2025; Course Enhancement Questionnaire: 4/5 and 4.75/5)
-- _Teaching assistant_ for Mergers and Acquisitions (Postgraduate; Instructor: Leonidas G. Barbopoulos); 2025-2026
 - _Teaching assistant_ for Applications of Finance (Undergraduate; Instructor: Khaladdin Rzayev); 2025-2026
+- _Teaching assistant_ for Mergers and Acquisitions (Postgraduate; Instructor: Leonidas G. Barbopoulos); 2025-2026
 - _Guest lecturer_ for Empirical Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023; [Lecture Materials](https://drive.google.com/drive/folders/1hnpZs2fTQ1Ec00MFrXASNdiUDNSlouEq?usp=sharing)
 
 **Conference**
