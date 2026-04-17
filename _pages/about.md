@@ -47,13 +47,13 @@ Teaching, Research, and Conference Assistants
 - _Teaching assistant_ for Principles of Finance (Undergraduate; Instructor: Yue Liu); (2025-2026 and 2024-2025; Course Enhancement Questionnaire: 4/5 and 4.75/5)
 - _Teaching assistant_ for Applications of Finance (Undergraduate; Instructor: Khaladdin Rzayev); 2025-2026
 - _Teaching assistant_ for Mergers and Acquisitions (Postgraduate; Instructor: Leonidas G. Barbopoulos); 2025-2026
-- _Guest lecturer_ for Empirical Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023; [Lecture Materials](https://drive.google.com/drive/folders/1hnpZs2fTQ1Ec00MFrXASNdiUDNSlouEq?usp=sharing)
+- _Guest lecturer_ for Empirical Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023; [Lecture Materials](https://drive.google.com/drive/folders/1hnpZs2fTQ1Ec00MFrXASNdiUDNSlouEq?usp=sharing){:target="_blank" }
 
 **Conference**
-- _Conference assistant and reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html); August-2024
+- _Conference assistant and reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
 
 **Other academic leadership experience**
-- _Founding member_ of the Edinburgh Business School Statistics Group; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing)
+- _Founding member_ of the Edinburgh Business School Statistics Group; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
 
 
 Industry Working Experiences
