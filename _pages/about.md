@@ -48,10 +48,10 @@ Teaching, Research, and Conference Assistants
 - _Guest lecturer_ for Empirical Asset Pricing (Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023; [Lecture Materials](https://drive.google.com/drive/folders/1hnpZs2fTQ1Ec00MFrXASNdiUDNSlouEq?usp=sharing)
 
 **Conference**
-- _Conference assistant and reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html); (August-2024)
+- _Conference assistant and reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html); August-2024
 
 **Other academic leadership experience**
-- _Founding member_ of the Business Statistics Group at Edinburgh Business School and delivered a series of research seminars on empirical research methods, particularly causal identification and mechanism analysis (2023–2025) [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing) (2023-2025)
+- _Founding member_ of the Business Statistics Group at Edinburgh Business School and delivered a series of research seminars on empirical research methods, particularly causal identification and mechanism analysis; 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing)
 
 
 Industry Working Experiences
