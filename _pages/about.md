@@ -50,7 +50,7 @@ Teaching, Research, and Conference Assistants
 - _Guest Lecturer_ for [Empirical Asset Pricing](https://www.drps.ed.ac.uk/23-24/dpt/cxcmse11509.htm){:target="_blank" } (Postgraduate; Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023; [Lecture Materials](https://drive.google.com/drive/folders/1hnpZs2fTQ1Ec00MFrXASNdiUDNSlouEq?usp=sharing){:target="_blank" }
 
 **Research**
--  _Research Assistant_ to Maria K. Boutchkova; translated data analysis workflows from Stata to Python to facilitate subsequent collaborative research; Jan-2024
+-  _Research Assistant_ to Maria K. Boutchkova; Translated data analysis workflows from Stata to Python to facilitate subsequent collaborative research; Jan-2024
 
 **Conference**
 - _Conference Assistant & Reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
