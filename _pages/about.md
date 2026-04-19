@@ -83,7 +83,7 @@ Research Assistance and Academic Service
 - _Founding Member_ of the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
 
 
-Industry Working Experiences
+Industry Experiences
 ------
 - Intern, Haitong Securities Company Limited – Top 5 security research institution (China); the Research Institute, Farming, Forestry, Livestock & Fishing; 2022.03-2022.07
 - Intern, PricewaterhouseCoopers Consulting (Singapore) Pty. Ltd; the Southeast Asia Strategic Consulting Department; 2021.12-2022.02
