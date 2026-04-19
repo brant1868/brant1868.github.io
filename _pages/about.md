@@ -71,15 +71,18 @@ Teaching Experience
 - _Guest Lecturer_ for [Empirical Asset Pricing](https://www.drps.ed.ac.uk/23-24/dpt/cxcmse11509.htm){:target="_blank" } (Postgraduate; Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023; [Lecture Materials](https://drive.google.com/drive/folders/1hnpZs2fTQ1Ec00MFrXASNdiUDNSlouEq?usp=sharing){:target="_blank" }
 
 
-Research Assistance and Academic Service
+Research Experience
 ------
-**Research**
+<!-- **Research** -->
 -  _Research Assistant_ to Maria K. Boutchkova; Supported collaborative empirical research by translating and streamlining data-analysis workflows from Stata to Python; Jan-2024
 
-**Conference**
+
+Academic Leadership and Service
+------
+<!-- **Conference** -->
 - _Conference Assistant & Reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
 
-**Academic Leadership and Service**
+<!-- **Academic Leadership and Service** -->
 - _Founding Member_ of the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
 
 
