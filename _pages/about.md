@@ -94,7 +94,7 @@ Prizes, Awards, and Grants
 
 Skills
 ------
-- Programming software: Python, R, Stata, EViews, MATLAB
+- Programming: Python, R, Stata, EViews, MATLAB
 - Databases: WRDS, CRSP, COMPSTAT, Refinitiv, Bloomberg, SEC texts, Wind
 - Computer: Proficient in Excel, Word, PowerPoint, Overleaf
 - Language & Certificates: IELTS 7, GMAT 720 (Top 6%), ACCA (9 subjects)
