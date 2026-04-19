@@ -29,7 +29,7 @@ My research lies in empirical corporate finance, with a particular focus on merg
 Job Market Paper
 ------
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
-- Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities. 
+- Main findings: Develop novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis and job-posting data. Using these measures, it show that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
 - Presentations: AsiaFA2026(Scheduled)
 
 
@@ -40,25 +40,25 @@ Working Papers
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
 [A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
-- Main findings: Acquirers’ high-return previous takeover deal can lead to higher returns in the subsequent deal when it fosters information production about the acquirer.
+- Main findings: Why some serial acquirers continue to earn strong returns in subsequent takeover deals. Acquirers’ high-return previous takeover deal can lead to higher returns in the subsequent deal when it fosters information production about the acquirer. 
 
 [Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Solo-authored). _Working Paper_.
-- Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
+- Main findings: Firm-level data assets promote firms' organic investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
 
 
 Work in Progress
 ------
 Artificial Intelligence Capital and Inorganic Growth (Solo-authored).
-- Main findings: Develop firm-level AI capital measures using economic modelling and job data, examine how data revolution promotes acquisition activities.
+- Main findings: Develop firm-level AI capital measures using economic modelling and job data, continue to examine how big-data revolution promotes acquisition activities.
 
 Artificial Intelligence Capital and Organic Growth (Solo-authored).
-- Main findings: Firm-level AI capital promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through both product and process innovation.
+- Main findings: Firm-level AI capital promote firms' organic investment (capital and R&D) and improve investment efficiency through both product and process innovation.
 
 Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos).
 - Main findings: Pre-existing convertible debt affects firms’ acquisitiveness and merger outcomes. Convertible debt and conventional leverage have opposite effects on firms’ likelihood of becoming acquirers, highlighting the distinct role of convertible debt in the market for corporate control.
 
 The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos).
-- Main findings: Earnouts also contain incremental information about post-deal performance beyond what is reflected in announcement-period returns. The paper contributes to the literature on acquisition contracting and post-merger outcomes by showing how contingent payment design shapes real merger performance.
+- Main findings: Earnout provisions contain incremental information about post-deal performance beyond what is reflected in announcement-period returns. The paper contributes to the literature on acquisition contracting and post-merger outcomes by showing how contingent payment design shapes real merger performance.
 
 
 Teaching Experience
