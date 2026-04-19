@@ -29,7 +29,7 @@ My research lies in empirical corporate finance, with a particular focus on merg
 Job Market Paper
 ------
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
-- Main findings: Develop novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis and job-posting data. Using these measures, it show that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
+- Main findings: Develop novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis and job-posting data. Using these measures, it shows that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
 - Presentations: AsiaFA2026(Scheduled)
 
 
