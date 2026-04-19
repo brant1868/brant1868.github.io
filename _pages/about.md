@@ -71,7 +71,7 @@ Teaching Experience
 Research Assistance and Academic Service
 ------
 **Research**
--  _Research Assistant_ to Maria K. Boutchkova; Translated data analysis workflows from Stata to Python to facilitate subsequent collaborative research; Jan-2024
+-  _Research Assistant_ to Maria K. Boutchkova; Supported collaborative empirical research by translating and streamlining data-analysis workflows from Stata to Python; Jan-2024
 
 **Conference**
 - _Conference Assistant & Reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
