@@ -26,6 +26,13 @@ Research and Teaching Interests
 My research lies in empirical corporate finance, with a particular focus on mergers and acquisitions, information frictions, and the role of data and AI in firm decision-making. I study how firms’ data assets and AI capital shape corporate policies, market outcomes, and firm growth, and how managerial biases and investor behavior influence firm decisions. My teaching interests include corporate finance, investments, mergers and acquisitions, empirical methods, econometrics, and data-oriented finance. [Research Statement](https://drive.google.com/file/d/1Co9qF-4s6H6fwLc9D1atQatM5PqSXmN7/view?usp=sharing){:target="_blank" }, [Teaching Statement](https://drive.google.com/file/d/11SOkgGuj8OwazSW6n1HKRdb0bjZXLW7D/view?usp=sharing){:target="_blank" }
 
 
+Job Market Paper
+------
+[Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
+- Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities. 
+- Presentations: AsiaFA2026(Scheduled)
+
+
 Working Papers
 ------
 [The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://drive.google.com/file/d/1qwA9J_qWvBtJ6pgPMzsKkwzsm6qDYNI8/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
@@ -34,10 +41,6 @@ Working Papers
 
 [A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
 - Main findings: Acquirers’ high-return previous takeover deal can lead to higher returns in the subsequent deal when it fosters information production about the acquirer.
-
-[Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
-- Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities. 
-- Presentations: AsiaFA2026(Scheduled) 
 
 [Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
