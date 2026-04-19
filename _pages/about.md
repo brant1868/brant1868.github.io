@@ -76,7 +76,7 @@ Research Assistance and Academic Service
 **Conference**
 - _Conference Assistant & Reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
 
-**Academic leadership experience**
+**Academic Leadership and Service**
 - _Founding Member_ of the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
 
 
