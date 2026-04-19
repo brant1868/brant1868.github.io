@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 [CV-EN](https://drive.google.com/file/d/1S0DrE2XjAShySG9q64DDUizmzugu3YdX/view?usp=sharing){: .btn .btn--info target="_blank" }  &nbsp; 
 [CV-中文](https://drive.google.com/file/d/1GpAZNP-oPQCP0RJdf0ZjytyJ-J1G_L39/view?usp=sharing){: .btn .btn--info target="_blank" }  &nbsp; 
 [CV-EN&中文](https://drive.google.com/file/d/1zolpgYJLiUDF2XkuHcIbxbqYdskxSYJi/view?usp=sharing){: .btn .btn--info target="_blank" }
@@ -24,6 +25,7 @@ Research and Teaching Interests
 <!--  My research and teaching interests involve corporate finance, the economics of data and AI, and behavioral finance. Within corporate finance, my research addresses mergers and acquisitions, capital expenditures, and convertible securities. Within the economics of data and AI, my research addresses how firms’ data assets and AI capital shape corporate policies, market outcomes, and the broader economy. Within behavioral finance, my research addresses how managerial biases and investor psychology influence firm decisions. -->
 My research lies in empirical corporate finance, with a particular focus on mergers and acquisitions, information frictions, and the role of data and AI in firm decision-making. I study how firms’ data assets and AI capital shape corporate policies, market outcomes, and firm growth, and how managerial biases and investor behavior influence firm decisions. My teaching interests include corporate finance, investments, mergers and acquisitions, empirical methods, econometrics, and data-oriented finance. [Research Statement](https://drive.google.com/file/d/1Co9qF-4s6H6fwLc9D1atQatM5PqSXmN7/view?usp=sharing){:target="_blank" }, [Teaching Statement](https://drive.google.com/file/d/11SOkgGuj8OwazSW6n1HKRdb0bjZXLW7D/view?usp=sharing){:target="_blank" }
 
+
 Working Papers
 ------
 [The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://drive.google.com/file/d/1qwA9J_qWvBtJ6pgPMzsKkwzsm6qDYNI8/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
@@ -40,6 +42,7 @@ Working Papers
 [Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
 
+
 Work in Progress
 ------
 Artificial Intelligence Capital and Inorganic Growth (Solo-authored). _Working Paper_.
@@ -50,7 +53,6 @@ Artificial Intelligence Capital and Organic Growth (Solo-authored). _Working Pap
 
 Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos). _Working Paper_.
 - Main findings: Pre-existing convertible debt affects firms’ acquisitiveness and merger outcomes. Convertible debt and conventional leverage have opposite effects on firms’ likelihood of becoming acquirers, highlighting the distinct role of convertible debt in the market for corporate control.
-
 
 The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos). _Working Paper_.
 - Main findings: Earnouts also contain incremental information about post-deal performance beyond what is reflected in announcement-period returns. The paper contributes to the literature on acquisition contracting and post-merger outcomes by showing how contingent payment design shapes real merger performance.
