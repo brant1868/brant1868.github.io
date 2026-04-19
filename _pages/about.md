@@ -62,7 +62,7 @@ Teaching, Research, and Conference Assistants
 
 Industry Working Experiences
 ------
-- Intern, Haitong Securities Company Limited – Top 5 security research institution (China); the Research Institute, the Farming, Forestry, Livestock & Fishing Industry; 2022.03-2022.07
+- Intern, Haitong Securities Company Limited – Top 5 security research institution (China); the Research Institute, Farming, Forestry, Livestock & Fishing; 2022.03-2022.07
 - Intern, PricewaterhouseCoopers Consulting (Singapore) Pty. Ltd; the Southeast Asia Strategic Consulting Department; 2021.12-2022.02
 - Intern, Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department; 2021.09-2022.12  
 
