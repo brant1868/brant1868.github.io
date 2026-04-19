@@ -58,22 +58,25 @@ The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos)
 - Main findings: Earnouts also contain incremental information about post-deal performance beyond what is reflected in announcement-period returns. The paper contributes to the literature on acquisition contracting and post-merger outcomes by showing how contingent payment design shapes real merger performance.
 
 
-Teaching, Research, and Conference Assistants
+Teaching Experience
 ------
 <!-- The University of Edinburgh, Business School -->
-**Teaching**  
+<!-- **Teaching** -->
 - _Teaching Assistant_ for [Principles of Finance](https://www.drps.ed.ac.uk/26-27/dpt/cxbust08003.htm){:target="_blank" } (Undergraduate; Instructor: Yue Liu); (2025-2026 and 2024-2025; Course Enhancement Questionnaire: [4/5](https://drive.google.com/file/d/1_GRnuGvm8d5ceRvvZCj_AAvOGzb7fO3d/view?usp=sharing){:target="_blank" } and [4.75/5](https://drive.google.com/file/d/1SUxn3wPamdn3TrFoGHywPhjGYmTl1ZJk/view?usp=sharing){:target="_blank" })
 - _Teaching Assistant_ for [Applications of Finance](https://www.drps.ed.ac.uk/26-27/dpt/cxbust08018.htm){:target="_blank" } (Undergraduate; Instructor: Khaladdin Rzayev); 2025-2026
 - _Teaching Assistant_ for [Mergers and Acquisitions](https://www.drps.ed.ac.uk/25-26/dpt/cxcmse11458.htm){:target="_blank" } (Postgraduate; Instructor: Leonidas G. Barbopoulos); 2025-2026
 - _Guest Lecturer_ for [Empirical Asset Pricing](https://www.drps.ed.ac.uk/23-24/dpt/cxcmse11509.htm){:target="_blank" } (Postgraduate; Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023; [Lecture Materials](https://drive.google.com/drive/folders/1hnpZs2fTQ1Ec00MFrXASNdiUDNSlouEq?usp=sharing){:target="_blank" }
 
+
+Research Assistance and Academic Service
+------
 **Research**
 -  _Research Assistant_ to Maria K. Boutchkova; Translated data analysis workflows from Stata to Python to facilitate subsequent collaborative research; Jan-2024
 
 **Conference**
 - _Conference Assistant & Reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
 
-**Other academic leadership experience**
+**Academic leadership experience**
 - _Founding Member_ of the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
 
 
@@ -92,7 +95,7 @@ Prizes, Awards, and Grants
 Skills
 ------
 - Programming software: Python, R, Stata, EViews, MATLAB
-- Databases: WRDS, CRSP, COMPSTAT, Refinitive, Bloomberg, SEC texts, Wind
+- Databases: WRDS, CRSP, COMPSTAT, Refinitiv, Bloomberg, SEC texts, Wind
 - Computer: Proficient in Excel, Word, PowerPoint, Overleaf
 - Language & Certificates: IELTS 7, GMAT 720 (Top 6%), ACCA (9 subjects)
 
