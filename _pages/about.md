@@ -62,9 +62,9 @@ Teaching, Research, and Conference Assistants
 
 Industry Working Experiences
 ------
-- Haitong Securities Company Limited – Top 5 security research institution (China); the Research Institute, the Farming, Forestry, Livestock and Fishing Industry  
-- PricewaterhouseCoopers Consulting (Singapore) Pty. Ltd; the Southeast Asia Strategic Consulting Department  
-- Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department  
+- Intern, Haitong Securities Company Limited – Top 5 security research institution (China); the Research Institute, the Farming, Forestry, Livestock and Fishing Industry  
+- Intern, PricewaterhouseCoopers Consulting (Singapore) Pty. Ltd; the Southeast Asia Strategic Consulting Department  
+- Intern, Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department  
 
 
 Prizes, Awards, and Grants
