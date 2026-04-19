@@ -40,19 +40,19 @@ Working Papers
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
 [A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
-- Main findings: Why some serial acquirers continue to earn strong returns in subsequent takeover deals. Acquirers’ high-return previous takeover deal can lead to higher returns in the subsequent deal when it fosters information production about the acquirer. 
+- Main findings: This paper examines why some serial acquirers continue to earn strong returns in subsequent takeover deals. It shows that a bidder’s previous high-return acquisition can lead to higher returns in a subsequent deal when it generates information production about the acquirer. 
 
 [Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Solo-authored). _Working Paper_.
-- Main findings: Firm-level data assets promote firms' organic investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
+- Main findings: Firm-level data assets promote firms' organic investment (capital and R&D), improve investment efficiency, and increase operational efficiency instead of product innovation.
 
 
 Work in Progress
 ------
 Artificial Intelligence Capital and Inorganic Growth (Solo-authored).
-- Main findings: Develop firm-level AI capital measures using economic modelling and job data, continue to examine how big-data revolution promotes acquisition activities.
+- Main findings: Develops firm-level measures of AI capital using economic modelling and job-posting data, and examines how AI capital promotes acquisition activity through inorganic growth.
 
 Artificial Intelligence Capital and Organic Growth (Solo-authored).
-- Main findings: Firm-level AI capital promote firms' organic investment (capital and R&D) and improve investment efficiency through both product and process innovation.
+- Main findings: Firm-level AI capital promotes firms' organic investment (capital and R&D), improves investment efficiency, and increases both product and process innovation.
 
 Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos).
 - Main findings: Pre-existing convertible debt affects firms’ acquisitiveness and merger outcomes. Convertible debt and conventional leverage have opposite effects on firms’ likelihood of becoming acquirers, highlighting the distinct role of convertible debt in the market for corporate control.
@@ -79,18 +79,18 @@ Research Experience
 
 Academic Leadership and Service
 ------
-<!-- **Conference** -->
-- _Conference Assistant & Reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
-
 <!-- **Academic Leadership and Service** -->
 - _Founding Member_ of the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
 
+<!-- **Conference** -->
+- _Conference Assistant & Reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
 
-Industry Experiences
+
+Industry Experience
 ------
 - Intern, Haitong Securities Company Limited – Top 5 security research institution (China); the Research Institute, Farming, Forestry, Livestock & Fishing; 2022.03-2022.07
 - Intern, PricewaterhouseCoopers Consulting (Singapore) Pty. Ltd; the Southeast Asia Strategic Consulting Department; 2021.12-2022.02
-- Intern, Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department; 2021.09-2022.12  
+- Intern, Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department; 2021.09-2021.12  
 
 
 Prizes, Awards, and Grants
