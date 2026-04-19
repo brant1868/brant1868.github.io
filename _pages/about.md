@@ -37,8 +37,23 @@ Working Papers
 - Main findings: Develop firm-level data assets measures using economic modelling and a large language model, examine how data revolution promotes acquisition activities. 
 - Presentations: AsiaFA2026(Scheduled) 
 
-[Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Solo Paper). _Working Paper_.
+[Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through operational efficiency instead of product innovation.
+
+Work in Progress
+------
+Artificial Intelligence Capital and Inorganic Growth (Solo-authored). _Working Paper_.
+- Main findings: Develop firm-level AI capital measures using economic modelling and job data, examine how data revolution promotes acquisition activities.
+
+Artificial Intelligence Capital and Organic Growth (Solo-authored). _Working Paper_.
+- Main findings: Firm-level AI capital promote firms' data-to-day investment (capital and R&D) and improve investment efficiency through both product and process innovation.
+
+Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos). _Working Paper_.
+- Main findings: Pre-existing convertible debt affects firms’ acquisitiveness and merger outcomes. Convertible debt and conventional leverage have opposite effects on firms’ likelihood of becoming acquirers, highlighting the distinct role of convertible debt in the market for corporate control.
+
+
+The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos). _Working Paper_.
+- Main findings: Earnouts also contain incremental information about post-deal performance beyond what is reflected in announcement-period returns. The paper contributes to the literature on acquisition contracting and post-merger outcomes by showing how contingent payment design shapes real merger performance.
 
 
 Teaching, Research, and Conference Assistants
