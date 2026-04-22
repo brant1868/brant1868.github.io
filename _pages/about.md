@@ -101,7 +101,7 @@ Prizes, Awards, and Grants
 Skills
 ------
 - Programming: Python, R, Stata, EViews, MATLAB
-- Databases: WRDS, CRSP, Compustat, Refinitiv, Bloomberg, SEC texts, Wind
+- Databases: CRSP, Compustat, WRDS, Refinitiv, SEC filings, Wind, Bloomberg
 <!-- - Computer: Proficient in Excel, Word, PowerPoint, Overleaf -->
 <!-- - Language & Certificates: IELTS 7, GMAT 720 (Top 6%), ACCA (9 subjects) -->
 
