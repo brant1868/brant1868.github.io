@@ -96,7 +96,7 @@ Industry Experience
 Prizes, Awards, and Grants
 ------
 - 2025 The American Finance Association PhD Student Travel Grant
-- 2018 Financial Management Association of Australia (FMAA) Price for Finance, The University of Melbourne 
+- 2018 Financial Management Association of Australia (FMAA) Price for Finance, The University of Melbourne; [Certificate](https://drive.google.com/file/d/1z1BPZCPwBGqEekptZaQ4gdd2XIGP_8oM/view?usp=sharing){:target="_blank" }
 
 Skills
 ------
