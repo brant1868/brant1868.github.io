@@ -30,7 +30,7 @@ Job Market Paper
 ------
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
 - Main findings: This paper develops novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis and job-posting data, and shows that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
-- Presentations: AsiaFA2026(Scheduled)
+- Presentations: AsiaFA 2026, Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference 2026
 
 
 Working Papers
