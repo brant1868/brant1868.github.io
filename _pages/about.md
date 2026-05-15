@@ -96,8 +96,8 @@ Industry Experience
 
 Prizes, Awards, and Grants
 ------
-- 2026 Edinburgh Futures Institute Dissemination Fund, University of Edinburgh
-- 2025 The American Finance Association PhD Student Travel Grant
+- 2026 Edinburgh Futures Institute Dissemination Fund, University of Edinburgh, £1,000
+- 2025 The American Finance Association PhD Student Travel Grant, $800
 - 2018 Financial Management Association of Australia (FMAA) Price for Finance, The University of Melbourne
 
 Skills
