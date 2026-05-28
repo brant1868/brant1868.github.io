@@ -58,7 +58,7 @@ Artificial Intelligence Capital and Organic Growth (Solo-authored).
 Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos).
 - Main findings: Pre-existing convertible debt affects firms’ acquisitiveness and merger outcomes. Convertible debt and conventional leverage have opposite effects on firms’ likelihood of becoming acquirers, highlighting the distinct role of convertible debt in the market for corporate control.
 
-The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos).
+The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos and Peter Cincinelli)
 - Main findings: Earnout provisions contain incremental information about post-deal performance beyond what is reflected in announcement-period returns. The paper contributes to the literature on acquisition contracting and post-merger outcomes by showing how contingent payment design shapes real merger performance.
 
 
