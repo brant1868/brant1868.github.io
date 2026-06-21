@@ -50,7 +50,7 @@ Working Papers
 Work in Progress
 ------
 Artificial Intelligence Capital and Inorganic Growth (Solo-authored).
-- Main findings: Develops firm-level measures of AI capital using economic modelling and job-posting data, and examines how AI capital promotes acquisition activity through inorganic growth.
+- Main findings: Develops firm-level measures of AI capital using economic modelling and Resume data, and examines how AI capital promotes acquisition activity through inorganic growth.
 
 Artificial Intelligence Capital and Organic Growth (Solo-authored).
 - Main findings: Firm-level AI capital promotes firms' organic investment (capital and R&D), improves investment efficiency, and increases both product and process innovation.
