@@ -28,10 +28,8 @@ My research lies in empirical corporate finance, with a particular focus on merg
 
 Job Market Paper
 ------
-[Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
-- Main findings: This paper develops novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis and job-posting data, and shows that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
-- Presentations: AsiaFA 2026, Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
-
+[Artificial Intelligence Capital and Inorganic Growth](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link) (Solo-authored).
+- Main findings: This paper examines how firms’ accumulation of artificial intelligence (AI) capabilities shapes corporate acquisition activity. A firm-level measure of AI capital is constructed by combining AI-skilled employment data with a capitalization model to study firms’ acquisition decisions and target selection. Firms with greater AI capital are more acquisitive and more likely to acquire targets with complementary AI-skilled human capital, highlighting a role for AI in shaping firm boundaries and incumbent growth.
 
 
 Working Papers
@@ -41,7 +39,11 @@ Working Papers
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
 [A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
-- Main findings: This paper examines why some serial acquirers continue to earn strong returns in subsequent takeover deals. It shows that a bidder’s previous high-return acquisition can lead to higher returns in a subsequent deal when it generates information production about the acquirer. 
+- Main findings: This paper examines why some serial acquirers continue to earn strong returns in subsequent takeover deals. It shows that a bidder’s previous high-return acquisition can lead to higher returns in a subsequent deal when it generates information production about the acquirer.
+
+[Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
+- Main findings: This paper develops novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis and job-posting data, and shows that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
+- Presentations: AsiaFA 2026, Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
 
 [Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' organic investment (capital and R&D), improve investment efficiency, and increase operational efficiency instead of product innovation.
@@ -49,9 +51,6 @@ Working Papers
 
 Work in Progress
 ------
-Artificial Intelligence Capital and Inorganic Growth (Solo-authored).
-- Main findings: Develops firm-level measures of AI capital using economic modelling and Resume data, and examines how AI capital promotes acquisition activity through inorganic growth.
-
 Artificial Intelligence Capital and Organic Growth (Solo-authored).
 - Main findings: Firm-level AI capital promotes firms' organic investment (capital and R&D), improves investment efficiency, and increases both product and process innovation.
 
