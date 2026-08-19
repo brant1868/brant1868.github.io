@@ -28,7 +28,7 @@ My research lies in empirical corporate finance, with a particular focus on merg
 
 Job Market Paper
 ------
-[Artificial Intelligence Capital and Inorganic Growth](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link) (Solo-authored).
+[Artificial Intelligence Capital and Complementary Acquisitions](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link){:target="_blank" } (Solo-authored).
 - Main findings: This paper examines how firms’ accumulation of artificial intelligence (AI) capabilities shapes corporate acquisition activity. A firm-level measure of AI capital is constructed by combining AI-skilled employment data with a capitalization model to study firms’ acquisition decisions and target selection. Firms with greater AI capital are more acquisitive and more likely to acquire targets with complementary AI-skilled human capital, highlighting a role for AI in shaping firm boundaries and incumbent growth.
 
 
