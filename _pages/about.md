@@ -29,7 +29,8 @@ My research lies in empirical corporate finance, with a particular focus on merg
 Job Market Paper
 ------
 [Artificial Intelligence Capital and Complementary Acquisitions](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link){:target="_blank" } (Solo-authored).
-- Main findings: This paper examines how firms’ accumulation of artificial intelligence (AI) capabilities shapes corporate acquisition activity. A firm-level measure of AI capital is constructed by combining AI-skilled employment data with a capitalization model to study firms’ acquisition decisions and target selection. Firms with greater AI capital are more acquisitive and more likely to acquire targets with complementary AI-skilled human capital, highlighting a role for AI in shaping firm boundaries and incumbent growth.
+- Main findings: Constructs a firm-level measure of AI capital stock by combining AI-skilled employment data with a capitalization model that separates the accumulated quantity of AI capital from its shadow price, distinguishing it from conventional measures of AI employment or adoption. The paper examines how accumulated AI capabilities shape acquisitions and subsequent demand for AI-skilled labor, showing that AI capital predicts both a higher likelihood of acquisition and greater future AI hiring, while AI-rich firms are also more likely to acquire targets with complementary AI human capital.
+
 
 
 Working Papers
