@@ -35,7 +35,7 @@ Job Market Paper
 
 Working Papers
 ------
-[The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://drive.google.com/file/d/1qwA9J_qWvBtJ6pgPMzsKkwzsm6qDYNI8/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
+[The Noise Share of the 52-Week High Effect on Mergers and Acquisitions](https://drive.google.com/file/d/14QogxbzOkbWbNxQR4Ps5Qru8pDLq0R6A/view?usp=drive_link){:target="_blank" } (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
 - Main findings: The target reference point effect depends on the percentage of noise in the target share price. Noise strengthens the sensitivity of offer prices to the 52-week high, while weakening its effects on acquirer market reactions and deal success. Evidence suggests that noise is associated with undervaluation, which attenuates the real effects of the 52-week high that would otherwise operate through an overpayment channel.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
