@@ -46,8 +46,8 @@ Working Papers
 - Main findings: This paper develops novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis and job-posting data, and shows that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
 - Presentations: AsiaFA 2026, Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
 
-[Data Assets, Organic Growth, and Process Innovation](https://drive.google.com/file/d/1M3oKFxyER4gjZ8XPjFuT-uX8Pza1Q8wN/view?usp=sharing){:target="_blank" } (Solo-authored). _Working Paper_.
-- Main findings: Firm-level data assets promote firms' organic investment (capital and R&D), improve investment efficiency, and increase operational efficiency instead of product innovation.
+[Data Assets, Organic Growth, and Efficiency](https://drive.google.com/file/d/1ie99rTEbM1nXDU970mZhnx3mpPh9ctxn/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
+- Main findings: Firm-level data assets promote firms' organic investment (capital and R&D) and improve investment and operating efficiency.
 
 
 Work in Progress
