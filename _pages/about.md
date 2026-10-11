@@ -52,8 +52,8 @@ Working Papers
 
 Work in Progress
 ------
-Artificial Intelligence Capital and Organic Growth (Solo-authored).
-- Main findings: Firm-level AI capital promotes firms' organic investment (capital and R&D), improves investment efficiency, and increases both product and process innovation.
+Artificial Intelligence Capital and Organic Growth: The Firm Size Paradox (Solo-authored).
+- Main findings: Artificial intelligence (AI) capital is concentrated among larger firms, yet its positive association with organic investment is stronger among smaller firms. These findings highlight a distinction between where technological capital accumulates and where it is most strongly associated with internal investment.
 
 Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos).
 - Main findings: Pre-existing convertible debt affects firms’ acquisitiveness and merger outcomes. Convertible debt and conventional leverage have opposite effects on firms’ likelihood of becoming acquirers, highlighting the distinct role of convertible debt in the market for corporate control.
