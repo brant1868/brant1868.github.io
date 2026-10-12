@@ -39,12 +39,12 @@ Working Papers
 - Main findings: The target reference point effect depends on the percentage of noise in the target share price. Noise strengthens the sensitivity of offer prices to the 52-week high, while weakening its effects on acquirer market reactions and deal success. Evidence suggests that noise is associated with undervaluation, which attenuates the real effects of the 52-week high that would otherwise operate through an overpayment channel.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
-[A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
+[A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
 - Main findings: This paper examines why some serial acquirers continue to earn strong returns in subsequent takeover deals. It shows that a bidder’s previous high-return acquisition can lead to higher returns in a subsequent deal when it generates information production about the acquirer.
 
-[Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos, and Yue Liu). _Working Paper_.
+[Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
 - Main findings: This paper develops novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis and job-posting data, and shows that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
-- Presentations: AsiaFA 2026, Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
+- Presentations: FMA-Asia 2026, AsiaFA 2026, The Sydney Banking and Financial Stability Conference 2026 (SBFC), Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
 
 [Data Assets, Organic Growth, and Efficiency](https://drive.google.com/file/d/1ie99rTEbM1nXDU970mZhnx3mpPh9ctxn/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' organic investment (capital and R&D) and improve investment and operating efficiency.
