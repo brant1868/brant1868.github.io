@@ -44,7 +44,7 @@ Working Papers
 
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
 - Main findings: This paper develops novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis, and shows that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
-- Presentations: ABFR Doctoral Research Symposium, FMA-Asia 2026, AsiaFA 2026, The Sydney Banking and Financial Stability Conference 2026 (SBFC), Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
+- Presentations: ABFR Doctoral Research Symposium 2026, FMA-Asia 2026, AsiaFA 2026, The Sydney Banking and Financial Stability Conference 2026 (SBFC), Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
 
 [Data Assets, Organic Growth, and Efficiency](https://drive.google.com/file/d/1ie99rTEbM1nXDU970mZhnx3mpPh9ctxn/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: Firm-level data assets promote firms' organic investment (capital and R&D) and improve investment and operating efficiency.
