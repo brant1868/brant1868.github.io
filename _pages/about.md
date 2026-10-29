@@ -94,7 +94,7 @@ Industry Experience
 - Intern, Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department; 2021.09-2021.12  
 
 
-Prizes, Awards, and Grants
+Funds and Prizes
 ------
 - 2026 Edinburgh Futures Institute Dissemination Fund, University of Edinburgh, £1,000
 - 2025 The American Finance Association PhD Student Grant, $800
