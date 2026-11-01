@@ -27,6 +27,7 @@ Research and Teaching Interests
 Empirical Corporate Finance; Mergers and Acquisitions; Information Economics; Intangible Capital; Corporate Investment.
 
 My research examines how intangible capital, information frictions, and financial contracting shape corporate investment and acquisition decisions. My work spans three interconnected areas: (i) digital capital and corporate growth, (ii) information and learning in M&A, and (iii) financing and contracting in M&A. Across these areas, I investigate how firms acquire, allocate, and deploy resources, and how these decisions influence corporate growth and value creation.
+
 My teaching interests include corporate finance, investments, mergers and acquisitions, empirical methods, econometrics, and data-oriented finance. [Research Statement](https://drive.google.com/file/d/1Co9qF-4s6H6fwLc9D1atQatM5PqSXmN7/view?usp=sharing){:target="_blank" }, [Teaching Statement](https://drive.google.com/file/d/11SOkgGuj8OwazSW6n1HKRdb0bjZXLW7D/view?usp=sharing){:target="_blank" }
 
 
