@@ -38,7 +38,7 @@ Job Market Paper
 
 
 
-Working Papers
+<!--  Working Papers
 ------
 [Share Price Noise and the 52-Week High Effect in M&A](https://drive.google.com/file/d/1i0QTdoGMnttnxHFrSVfVea26Ls04gZNa/view?usp=drive_link){:target="_blank" } (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
 - Main findings: The target reference point effect depends on the percentage of noise in the target share price. Noise strengthens the sensitivity of offer prices to the 52-week high, while weakening its effects on acquirer market reactions and deal success. Evidence suggests that noise is associated with undervaluation, which attenuates the real effects of the 52-week high that would otherwise operate through an overpayment channel.
@@ -66,7 +66,57 @@ Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis
 The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos and Peter Cincinelli)
 - Main findings: Earnout provisions contain incremental information about post-deal performance beyond what is reflected in announcement-period returns. The paper contributes to the literature on acquisition contracting and post-merger outcomes by showing how contingent payment design shapes real merger performance.
 
+ -->
 
+ 
+<!-- New -->
+
+Research
+------
+
+### 1. Digital Capital and Corporate Growth
+My research examines how firms' data assets and artificial intelligence (AI) capital shape corporate investment and growth. By developing firm-level measures of digital capital, I investigate how these intangible resources influence both organic investment and acquisitions, with particular attention to firm size, investment efficiency, and strategic complementarities. This research seeks to understand how emerging digital capabilities reshape firms' growth strategies and resource allocation.
+
+[Artificial Intelligence Capital and Complementary Acquisitions](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link){:target="_blank" } (Solo-authored). **Job Market Paper**.
+- Main findings: Constructs a firm-level measure of AI capital stock by combining AI-skilled employment data with a capitalization model that separates the accumulated quantity of AI capital from its shadow price, distinguishing it from conventional measures of AI employment or adoption. The paper examines how accumulated AI capabilities shape acquisitions and subsequent demand for AI-skilled labor, showing that AI capital predicts both a higher likelihood of acquisition and greater future AI hiring, while AI-rich firms are also more likely to acquire targets with complementary AI human capital.
+
+[Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
+- Main findings: Develops novel firm-level measures of data assets by combining economic modelling with large-language-model-based textual analysis, and shows that the data revolution promotes acquisition activity at the firm level. The evidence suggests that firms, especially large incumbents, use acquisitions defensively as a means of growth and survival.
+- Presentations: ABFR Doctoral Research Symposium 2026, FMA-Asia 2026, AsiaFA 2026, The Sydney Banking and Financial Stability Conference 2026 (SBFC), Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
+
+[Data Assets, Organic Growth, and Efficiency](https://drive.google.com/file/d/1ie99rTEbM1nXDU970mZhnx3mpPh9ctxn/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
+- Main findings: Firm-level data assets promote firms' organic investment (capital and R&D) and improve investment and operating efficiency.
+
+Artificial Intelligence Capital and Organic Growth: The Firm Size Paradox (Solo-authored). _Work in Progress_.
+- Main findings: Artificial intelligence (AI) capital is concentrated among larger firms, yet its positive association with organic investment is stronger among smaller firms. These findings highlight a distinction between where technological capital accumulates and where it is most strongly associated with internal investment.
+
+
+### 2. Information, Learning, and M&A
+This research explores how information quality, information production, and learning shape acquisition decisions and outcomes. I examine how noise in market prices influences takeover valuations and how information generated through previous acquisitions affects subsequent deal performance. Together, these studies investigate how the availability, quality, and production of information influence decision-making and value creation in the market for corporate control.
+
+[Share Price Noise and the 52-Week High Effect in M&A](https://drive.google.com/file/d/1i0QTdoGMnttnxHFrSVfVea26Ls04gZNa/view?usp=drive_link){:target="_blank" } (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
+- Main findings: The target reference point effect depends on the percentage of noise in the target share price. Noise strengthens the sensitivity of offer prices to the 52-week high, while weakening its effects on acquirer market reactions and deal success. Evidence suggests that noise is associated with undervaluation, which attenuates the real effects of the 52-week high that would otherwise operate through an overpayment channel.
+- Presentations: AFA2025-Poster, EFMA2025, FMA2025
+
+[A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
+- Main findings: This paper examines why some serial acquirers continue to earn strong returns in subsequent takeover deals. It shows that a bidder’s previous high-return acquisition can lead to higher returns in a subsequent deal when it generates information production about the acquirer.
+
+
+### 3. Financing and Contracting in M&A
+My research investigates how corporate financing arrangements and acquisition contracts influence merger activity and post-acquisition outcomes. I study how pre-existing convertible debt affects firms' acquisition decisions and how contingent payment provisions, such as earnouts, shape post-merger operating efficiency. This research highlights the role of financial flexibility and contractual design in facilitating acquisitions and influencing their real economic outcomes.
+
+Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos). _Work in Progress_.
+- Main findings: Pre-existing convertible debt affects firms’ acquisitiveness and merger outcomes. Convertible debt and conventional leverage have opposite effects on firms’ likelihood of becoming acquirers, highlighting the distinct role of convertible debt in the market for corporate control.
+
+The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos and Peter Cincinelli). _Work in Progress_.
+- Main findings: Earnout provisions contain incremental information about post-deal performance beyond what is reflected in announcement-period returns. The paper contributes to the literature on acquisition contracting and post-merger outcomes by showing how contingent payment design shapes real merger performance.
+
+
+
+
+
+
+<!-- Break -->
 Teaching Experience
 ------
 <!-- The University of Edinburgh, Business School -->
