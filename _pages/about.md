@@ -114,11 +114,8 @@ The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos 
 - Main findings: This paper examines how contingent payment contracts influence post-acquisition operating efficiency. Acquisitions involving earnout provisions are associated with greater improvements in acquirer operating efficiency, particularly among smaller acquirers. These efficiency gains are not fully reflected in announcement-period stock returns, suggesting that acquisition contract design provides additional information about merger performance and can shape real post-acquisition outcomes.
 
 
-
-
-
-
 <!-- Break -->
+
 Teaching Experience
 ------
 <!-- The University of Edinburgh, Business School -->
