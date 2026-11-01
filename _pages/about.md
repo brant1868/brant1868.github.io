@@ -30,11 +30,12 @@ My research examines how intangible capital, information frictions, and financia
 
 My teaching interests include corporate finance, investments, mergers and acquisitions, empirical methods, econometrics, and data-oriented finance. [Research Statement](https://drive.google.com/file/d/1Co9qF-4s6H6fwLc9D1atQatM5PqSXmN7/view?usp=sharing){:target="_blank" }, [Teaching Statement](https://drive.google.com/file/d/11SOkgGuj8OwazSW6n1HKRdb0bjZXLW7D/view?usp=sharing){:target="_blank" }
 
-
-<!--  Job Market Paper  -->
-<!--  ------
+<!--  
+Job Market Paper
+------
 [Artificial Intelligence Capital and Complementary Acquisitions](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link){:target="_blank" } (Solo-authored).
-- Main findings: Constructs a firm-level measure of AI capital stock by combining AI-skilled employment data with a capitalization model that separates the accumulated quantity of AI capital from its shadow price, distinguishing it from conventional measures of AI employment or adoption. The paper examines how accumulated AI capabilities shape acquisitions and subsequent demand for AI-skilled labor, showing that AI capital predicts both a higher likelihood of acquisition and greater future AI hiring, while AI-rich firms are also more likely to acquire targets with complementary AI human capital. -->
+- Main findings: Constructs a firm-level measure of AI capital stock by combining AI-skilled employment data with a capitalization model that separates the accumulated quantity of AI capital from its shadow price, distinguishing it from conventional measures of AI employment or adoption. The paper examines how accumulated AI capabilities shape acquisitions and subsequent demand for AI-skilled labor, showing that AI capital predicts both a higher likelihood of acquisition and greater future AI hiring, while AI-rich firms are also more likely to acquire targets with complementary AI human capital. 
+-->
 
 
 <!--  Working Papers
