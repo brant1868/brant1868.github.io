@@ -122,8 +122,6 @@ This research explores how information quality, information production, and lear
         background: #ffffff;
         border-radius: 6px;
       ">
-  </a>
-
   <!-- Caption and Notes -->
   <figcaption style="
     margin-top: 12px;
