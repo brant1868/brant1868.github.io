@@ -410,6 +410,12 @@ Research Experience
 -  _Research Assistant_ to Maria K. Boutchkova; Supported collaborative empirical research by translating and streamlining data-analysis workflows from Stata to Python; Jan-2024
 
 
+Projects
+------
+- _Net-Zero (ESG) Transformation Strategy_; Developed a net-zero transformation strategy for government and public-sector stakeholders in the Association of Southeast Asian Nations (ASEAN); [Report](https://drive.google.com/file/d/1btovQ6kc8e1mIddV4AggHNEkrgp7RVq4/view?usp=drive_link){:target="_blank" }; [Slides](https://drive.google.com/file/d/1PR9k6SMagLQlrjjk0f0aBUdfge8uWefY/view?usp=drive_link){:target="_blank" }
+- _Fund Investment and Wealth Management Research_; Applied prospect theory and reference-point effects to fund investment and wealth management strategies [Internal materials, not for public distribution]
+
+
 Academic Leadership and Service
 ------
 <!-- **Academic Leadership and Service** -->
@@ -426,12 +432,6 @@ Industry Experience
 - Intern, Haitong Securities Company Limited – Top 5 security research institution (China); the Research Institute, Farming, Forestry, Livestock & Fishing; 2022.03-2022.07
 - Intern, PricewaterhouseCoopers Consulting (Singapore) Pty. Ltd; the Southeast Asia Strategic Consulting Department; 2021.12-2022.02
 - Intern, Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department; 2021.09-2021.12  
-
-
-Projects
-------
-- _Net-Zero (ESG) Transformation Strategy_; Developed a net-zero transformation strategy for government and public-sector stakeholders in the Association of Southeast Asian Nations (ASEAN); [Report](https://drive.google.com/file/d/1btovQ6kc8e1mIddV4AggHNEkrgp7RVq4/view?usp=drive_link){:target="_blank" }; [Slides](https://drive.google.com/file/d/1PR9k6SMagLQlrjjk0f0aBUdfge8uWefY/view?usp=drive_link){:target="_blank" }
-- _Fund Investment and Wealth Management Research_; Applied prospect theory and reference-point effects to fund investment and wealth management strategies [Internal materials, not for public distribution]
 
 
 Funds and Prizes
