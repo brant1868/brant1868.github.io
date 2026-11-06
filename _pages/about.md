@@ -124,6 +124,7 @@ Teaching Experience
 - _Teaching Assistant_ for [Applications of Finance](https://www.drps.ed.ac.uk/26-27/dpt/cxbust08018.htm){:target="_blank" } (Undergraduate; Instructor: Khaladdin Rzayev); 2025-2026; CEQ: [4.5/5](https://drive.google.com/file/d/1A0KZSfHNyeBKjLHjc0hLroffUJPBHIRB/view?usp=sharing){:target="_blank" }
 - _Teaching Assistant_ for [Mergers and Acquisitions](https://www.drps.ed.ac.uk/25-26/dpt/cxcmse11458.htm){:target="_blank" } (Postgraduate; Instructor: Leonidas G. Barbopoulos); 2025-2026
 - _Guest Lecturer_ for [Empirical Asset Pricing](https://www.drps.ed.ac.uk/23-24/dpt/cxcmse11509.htm){:target="_blank" } (Postgraduate; Instructor: Sergei Sarkissian); Delivering one whole session and two sub-sessions; 2022-2023; [Lecture Materials](https://drive.google.com/drive/folders/1hnpZs2fTQ1Ec00MFrXASNdiUDNSlouEq?usp=sharing){:target="_blank" }
+- _Seminar Speaker_ for the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
 
 
 Research Experience
@@ -135,7 +136,9 @@ Research Experience
 Academic Leadership and Service
 ------
 <!-- **Academic Leadership and Service** -->
-- _Founding Member_ of the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
+<!-- - _Founding Member_ of the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }; Delivered a series of research seminars on empirical research methods (causal identification & mechanism analysis); 2023–2025; [Seminar Materials](https://drive.google.com/drive/folders/1_9xI9PnWQI2MFzfQk9kzte9-9yZYGObr?usp=sharing){:target="_blank" }
+ -->
+- _Founding Member_ of the [Edinburgh Business School Statistics Group](https://uebs-stats-group.github.io/stats-tools/){:target="_blank" }
 
 <!-- **Conference** -->
 - _Conference Assistant & Reviewer_ for [the 2nd Annual Conference of The British Accounting Review (BAR)](https://thebarevent.weebly.com/annual-conference.html){:target="_blank" }; August-2024
