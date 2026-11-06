@@ -417,16 +417,14 @@ This research explores how information quality, information production, and lear
     ">
       <strong>Notes:</strong>
       This figure shows bidder announcement returns across successive
-      acquisitions, excluding overlapping deals.
+      acquisitions.
       Panel (a) distinguishes acquirers by prior-deal performance,
       while Panel (b) distinguishes them by endogenous information production.
       The black solid line represents the overall return pattern
       (Fuller et al., 2002).
       The green dashed and red dotted lines represent high and low
-      prior-deal performance in Panel (a), and information production
+      prior-deal performance (CAR) in Panel (a), and information production
       and destruction in Panel (b), respectively.
-      High (low) prior-deal performance is defined as one standard
-      deviation above (below) the mean of prior-deal announcement returns.
     </div>
   </figcaption>
 </figure>
