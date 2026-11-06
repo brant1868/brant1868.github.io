@@ -151,6 +151,10 @@ Industry Experience
 - Intern, Zhong Ou Asset Management Co. Ltd. – Top 10 fund company (China); Wealth Management Department; 2021.09-2021.12  
 
 
+Projects
+------
+- Built a Net-Zero(ESG) Transformation Strategy for the Government and Public Sector of the Association of Southeast Asian Nations.[The Report](https://drive.google.com/file/d/1btovQ6kc8e1mIddV4AggHNEkrgp7RVq4/view?usp=drive_link){:target="_blank" }[The Slides](https://drive.google.com/file/d/1PR9k6SMagLQlrjjk0f0aBUdfge8uWefY/view?usp=drive_link){:target="_blank" } 
+
 Funds and Prizes
 ------
 - 2026 Edinburgh Futures Institute Dissemination Fund, University of Edinburgh, £1,000
