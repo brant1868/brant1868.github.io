@@ -123,7 +123,8 @@ This research explores how information quality, information production, and lear
     color: #777777;
     line-height: 1.5;
   ">
-    Figure 1. Share price noise and reference-point dependence in M&A.
+    Figure 1. Offer Prices Relative to the 52-Week High Price by \textit{Noise} 
+This figure presents histograms of the log percentage difference between the offer price and the target's 52-week high price. Panel (a) reports the full sample. Panels (b)--(d) partition the sample into terciles, quartiles, and quintiles of \textit{Noise}, respectively, and report the lowest- and highest-\textit{Noise} groups. The vertical dashed line at zero indicates an offer price equal to the target's 52-week high.
   </figcaption>
 </figure>
 
