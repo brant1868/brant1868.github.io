@@ -104,7 +104,7 @@ This research explores how information quality, information production, and lear
   <a href="{{ '/images/research/52week-high.svg' | relative_url }}"
      target="_blank" rel="noopener">
     <img
-      src="{{ '/images/research/52week-high.svg' | relative_url }}"
+      src="{{ '/images/research/RefPoint_white.svg' | relative_url }}"
       alt="Share price noise and the 52-week high effect in M&A"
       style="
         display: block;
