@@ -81,6 +81,7 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
 [Artificial Intelligence Capital and Complementary Acquisitions](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link){:target="_blank" } (Solo-authored). **Job Market Paper**.
 - Main findings: This paper develops a firm-level measure of AI capital stock by combining AI-skilled employment data with a capitalization model that separates the accumulated quantity of AI capital from its shadow price. Greater AI capital predicts a higher likelihood of acquisition and stronger subsequent demand for AI-skilled labor, beyond conventional measures of AI employment and other intangible capital. AI-rich acquirers are also more likely to select targets with AI-skilled employees, consistent with complementarity between accumulated AI capabilities and externally acquired human capital.
 - Presentations: International Finance and Banking Society Annual Conference (IFABS Ningbo) 2026
+
 <figure style="
   display: block;
   width: 100%;
@@ -91,63 +92,92 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
   text-align: center;
   color: inherit;
 ">
-<!-- Two images with equal-sized frames -->
-<div style="
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: stretch;
-  gap: 16px;
-  width: 100%;
-  margin: 0 auto;
-">
-  <!-- Left panel -->
+  <!-- Two images with equal-sized frames -->
   <div style="
-    width: calc(50% - 8px);
-    aspect-ratio: 1.15 / 1;
-    background: #ffffff;
-    border-radius: 6px;
-    overflow: hidden;
     display: flex;
-    align-items: center;
+    flex-direction: row;
     justify-content: center;
+    align-items: stretch;
+    gap: 16px;
+    width: 100%;
+    margin: 0 auto;
   ">
-    <img
-      src="{{ '/images/research/AIMA_K_heatmap.svg' | relative_url }}"
-      alt="Average AI capital by industry and year"
-      style="
-        display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-        margin: 0;
-      ">
+    <!-- Left panel -->
+    <div style="
+      width: calc(50% - 8px);
+      aspect-ratio: 1.15 / 1;
+      background: #ffffff;
+      border-radius: 6px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <img
+        src="{{ '/images/research/AIMA_K_heatmap.svg' | relative_url }}"
+        alt="Average AI capital by industry and year"
+        style="
+          display: block;
+          width: 100%;
+          height: 100%;
+          object-fit: contain;
+          margin: 0;
+        ">
+    </div>
+    <!-- Right panel -->
+    <div style="
+      width: calc(50% - 8px);
+      aspect-ratio: 1.15 / 1;
+      background: #ffffff;
+      border-radius: 6px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <img
+        src="{{ '/images/research/AIMA_K_Size4.svg' | relative_url }}"
+        alt="AI capital by firm size and year"
+        style="
+          display: block;
+          width: 100%;
+          height: 100%;
+          object-fit: contain;
+          margin: 0;
+        ">
+    </div>
   </div>
-  <!-- Right panel -->
-  <div style="
-    width: calc(50% - 8px);
-    aspect-ratio: 1.15 / 1;
-    background: #ffffff;
-    border-radius: 6px;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  <!-- Caption and Notes -->
+  <figcaption style="
+    margin-top: 12px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: inherit;
   ">
-    <img
-      src="{{ '/images/research/AIMA_K_Size4.svg' | relative_url }}"
-      alt="AI capital by firm size and year"
-      style="
-        display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-        margin: 0;
-      ">
-  </div>
-</div>
+    <!-- Figure title -->
+    <div style="
+      text-align: center;
+      font-weight: 600;
+      margin-bottom: 8px;
+    ">
+      Figure. Distribution of AI Capital (K) Across Industries and Firm Sizes
+    </div>
+    <!-- Notes -->
+    <div style="
+      text-align: left;
+      font-weight: 400;
+    ">
+      <strong>Notes:</strong>
+      This figure illustrates the distribution of firm-level
+      AI capital (K) over time.
+      The left panel presents a heatmap of average AI capital
+      by industry and year.
+      The right panel shows the distribution of AI capital
+      across firm-size groups and years.
+    </div>
   </figcaption>
 </figure>
+
 
 
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
@@ -386,15 +416,17 @@ This research explores how information quality, information production, and lear
       font-weight: 400;
     ">
       <strong>Notes:</strong>
-      This figure illustrates how endogenous information production reshapes the declining return pattern across successive deals for serial acquirers after removing overlapping deals.
-      Panel (a) shows how the acquirer’s prior deal performance affects the relation between bidder announcement returns and deal sequence number.
-      Panel (b) shows how the acquirer’s prior endogenous information production affects this relation.
-      In both panels, the black solid line plots the overall return pattern across deal sequence numbers, following Fuller et al. (2002).
-      The green dashed line plots the return pattern for acquirers whose prior deal has high performance in Panel (a) or high endogenous information production in Panel (b).
-      The red dotted line plots the corresponding pattern for acquirers whose prior deal has low performance in Panel (a) or endogenous information destruction in Panel (b).
-      Prior deal performance is measured by CAR<sub>L1</sub>.
-      High (low) performance is defined as CAR<sub>L1</sub> being one standard deviation above (below) the sample mean.
-      Endogenous information production (destruction) is defined as a prior deal with high (low) performance and positive (negative) information production.
+      This figure shows bidder announcement returns across successive
+      acquisitions, excluding overlapping deals.
+      Panel (a) distinguishes acquirers by prior-deal performance,
+      while Panel (b) distinguishes them by endogenous information production.
+      The black solid line represents the overall return pattern
+      (Fuller et al., 2002).
+      The green dashed and red dotted lines represent high and low
+      prior-deal performance in Panel (a), and information production
+      and destruction in Panel (b), respectively.
+      High (low) prior-deal performance is defined as one standard
+      deviation above (below) the mean of prior-deal announcement returns.
     </div>
   </figcaption>
 </figure>
