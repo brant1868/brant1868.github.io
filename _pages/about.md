@@ -101,7 +101,7 @@ This research explores how information quality, information production, and lear
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
 <figure style="max-width: 700px; margin: 20px auto 30px; text-align: center;">
-  <a href="{{ '/images/research/52week-high.svg' | relative_url }}"
+  <a href="{{ '/images/research/RefPoint_white.svg' | relative_url }}"
      target="_blank" rel="noopener">
     <img
       src="{{ '/images/research/RefPoint_white.svg' | relative_url }}"
