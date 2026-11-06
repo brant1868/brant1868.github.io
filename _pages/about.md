@@ -153,7 +153,9 @@ Industry Experience
 
 Projects
 ------
-- Built a Net-Zero(ESG) Transformation Strategy for the Government and Public Sector of the Association of Southeast Asian Nations. [The Report](https://drive.google.com/file/d/1btovQ6kc8e1mIddV4AggHNEkrgp7RVq4/view?usp=drive_link){:target="_blank" }; [The Slides](https://drive.google.com/file/d/1PR9k6SMagLQlrjjk0f0aBUdfge8uWefY/view?usp=drive_link){:target="_blank" } 
+- _Net-Zero (ESG) Transformation Strategy_; Developed a net-zero transformation strategy for government and public-sector stakeholders in the Association of Southeast Asian Nations (ASEAN); [Report](https://drive.google.com/file/d/1btovQ6kc8e1mIddV4AggHNEkrgp7RVq4/view?usp=drive_link){:target="_blank" }; [Slides](https://drive.google.com/file/d/1PR9k6SMagLQlrjjk0f0aBUdfge8uWefY/view?usp=drive_link){:target="_blank" }
+- _Fund Investment and Wealth Management Research_; Applied prospect theory and reference-point effects to fund investment and wealth management strategies; Internal materials (not for public distribution)
+
 
 Funds and Prizes
 ------
