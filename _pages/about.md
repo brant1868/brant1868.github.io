@@ -163,38 +163,60 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
   text-align: center;
   color: inherit;
 ">
-  <!-- Two images side by side -->
+  <!-- Two images with equal-sized frames -->
   <div style="
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: flex-start;
+    align-items: stretch;
     gap: 16px;
     width: 100%;
     margin: 0 auto;
   ">
-    <img
-      src="{{ '/images/research/DataAsset_K_distri_heatmap_yearff12.png' | relative_url }}"
-      alt="Average Data capital by industry and year"
-      style="
-        display: block;
-        width: calc(50% - 8px);
-        height: auto;
-        box-sizing: border-box;
-        background: #ffffff;
-        border-radius: 6px;
-      ">
-    <img
-      src="{{ '/images/research/DataAsset_K_size_4.png' | relative_url }}"
-      alt="Data capital by firm size and year"
-      style="
-        display: block;
-        width: calc(50% - 8px);
-        height: auto;
-        box-sizing: border-box;
-        background: #ffffff;
-        border-radius: 6px;
-      ">
+    <!-- Left panel -->
+    <div style="
+      width: calc(50% - 8px);
+      aspect-ratio: 1.15 / 1;
+      background: #ffffff;
+      border-radius: 6px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <img
+        src="{{ '/images/research/DataAsset_K_distri_heatmap_yearff12.png' | relative_url }}"
+        alt="Average data capital by industry and year"
+        style="
+          display: block;
+          width: 100%;
+          height: 100%;
+          object-fit: contain;
+          margin: 0;
+        ">
+    </div>
+    <!-- Right panel -->
+    <div style="
+      width: calc(50% - 8px);
+      aspect-ratio: 1.15 / 1;
+      background: #ffffff;
+      border-radius: 6px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <img
+        src="{{ '/images/research/DataAsset_K_size_4.png' | relative_url }}"
+        alt="Data capital by firm size and year"
+        style="
+          display: block;
+          width: 100%;
+          height: 100%;
+          object-fit: contain;
+          margin: 0;
+        ">
+    </div>
   </div>
   <!-- Caption and Notes -->
   <figcaption style="
@@ -218,10 +240,10 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
     ">
       <strong>Notes:</strong>
       This figure illustrates the distribution of firm-level
-      Data capital (K) over time.
-      The left panel presents a heatmap of average Data capital
+      data capital (K) over time.
+      The left panel presents a heatmap of average data capital
       by industry and year.
-      The right panel shows the distribution of Data capital
+      The right panel shows the distribution of data capital
       across firm-size groups and years.
     </div>
   </figcaption>
