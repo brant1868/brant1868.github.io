@@ -90,67 +90,63 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
   text-align: center;
   color: inherit;
 ">
-  <!-- Two images side by side -->
+<!-- Two images with equal-sized frames -->
+<div style="
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+  gap: 16px;
+  width: 100%;
+  margin: 0 auto;
+">
+
+  <!-- Left panel -->
   <div style="
+    width: calc(50% - 8px);
+    aspect-ratio: 1.15 / 1;
+    background: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
     display: flex;
-    flex-direction: row;
+    align-items: center;
     justify-content: center;
-    align-items: flex-start;
-    gap: 16px;
-    width: 100%;
-    margin: 0 auto;
   ">
     <img
       src="{{ '/images/research/AIMA_K_heatmap.svg' | relative_url }}"
       alt="Average AI capital by industry and year"
       style="
         display: block;
-        width: calc(50% - 8px);
-        height: auto;
-        box-sizing: border-box;
-        background: #ffffff;
-        border-radius: 6px;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        margin: 0;
       ">
+  </div>
+
+  <!-- Right panel -->
+  <div style="
+    width: calc(50% - 8px);
+    aspect-ratio: 1.15 / 1;
+    background: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  ">
     <img
       src="{{ '/images/research/AIMA_K_Size4.svg' | relative_url }}"
       alt="AI capital by firm size and year"
       style="
         display: block;
-        width: calc(50% - 8px);
-        height: auto;
-        box-sizing: border-box;
-        background: #ffffff;
-        border-radius: 6px;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        margin: 0;
       ">
   </div>
-  <!-- Caption and Notes -->
-  <figcaption style="
-    margin-top: 12px;
-    font-size: 0.85em;
-    line-height: 1.6;
-    color: inherit;
-  ">
-    <!-- Figure title -->
-    <div style="
-      text-align: center;
-      font-weight: 600;
-      margin-bottom: 8px;
-    ">
-      Figure. Distribution of AI Capital (K) Across Industries and Firm Sizes
-    </div>
-    <!-- Notes -->
-    <div style="
-      text-align: left;
-      font-weight: 400;
-    ">
-      <strong>Notes:</strong>
-      This figure illustrates the distribution of firm-level
-      AI capital (K) over time.
-      The left panel presents a heatmap of average AI capital
-      by industry and year.
-      The right panel shows the distribution of AI capital
-      across firm-size groups and years.
-    </div>
+</div>
   </figcaption>
 </figure>
 
