@@ -135,7 +135,7 @@ This research explores how information quality, information production, and lear
       font-weight: 600;
       margin-bottom: 8px;
     ">
-      Figure 1. Offer Prices Relative to the 52-Week High Price by
+      Figure: Offer Prices Relative to the 52-Week High Price by
       <em>Noise</em>
     </div>
     <!-- Notes: new line, left aligned -->
