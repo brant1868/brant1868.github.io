@@ -100,6 +100,33 @@ This research explores how information quality, information production, and lear
 - Main findings: This paper examines how the informational composition of target stock prices shapes reference-point dependence in takeover pricing and outcomes. A higher share of price noise strengthens the sensitivity of takeover premiums to the target's 52-week high, but the associated bidder announcement-return penalty disappears, while the completion advantage of offers above the 52-week high weakens. The amplification effect is concentrated among undervalued targets, suggesting that stronger reference-point dependence in noisier information environments does not necessarily imply bidder overpayment.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
+<figure style="max-width: 700px; margin: 20px auto 30px; text-align: center;">
+  <a href="{{ '/images/research/52week-high.svg' | relative_url }}"
+     target="_blank" rel="noopener">
+    <img
+      src="{{ '/images/research/52week-high.svg' | relative_url }}"
+      alt="Share price noise and the 52-week high effect in M&A"
+      style="
+        display: block;
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 12px;
+        background: #ffffff;
+        border: 1px solid #e5e7eb;
+        border-radius: 8px;
+      ">
+  </a>
+  <figcaption style="
+    margin-top: 8px;
+    font-size: 0.82em;
+    color: #777777;
+    line-height: 1.5;
+  ">
+    Figure 1. Share price noise and reference-point dependence in M&A.
+  </figcaption>
+</figure>
+
 [A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
 - Main findings: This paper examines why some serial acquirers consistently outperform others through the lens of endogenous information production. Following a high-return acquisition, subsequent acquisition returns are higher when the previous deal generates improvements in the informativeness of the acquirer's stock price. The effect is concentrated among firms experiencing improvements in stock liquidity, consistent with information production alleviating financial frictions and helping sustain acquisition performance across successive deals.
 
