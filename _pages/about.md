@@ -100,33 +100,64 @@ This research explores how information quality, information production, and lear
 - Main findings: This paper examines how the informational composition of target stock prices shapes reference-point dependence in takeover pricing and outcomes. A higher share of price noise strengthens the sensitivity of takeover premiums to the target's 52-week high, but the associated bidder announcement-return penalty disappears, while the completion advantage of offers above the 52-week high weakens. The amplification effect is concentrated among undervalued targets, suggesting that stronger reference-point dependence in noisier information environments does not necessarily imply bidder overpayment.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
 
-<figure style="max-width: 700px; margin: 20px auto 30px; text-align: center;">
-  <a href="{{ '/images/research/RefPoint_white.svg' | relative_url }}"
-     target="_blank" rel="noopener">
+<figure style="
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 24px auto 32px auto;
+  padding: 0;
+  float: none;
+  text-align: center;
+">
+  <!-- Image -->
     <img
       src="{{ '/images/research/RefPoint_white.svg' | relative_url }}"
-      alt="Share price noise and the 52-week high effect in M&A"
+      alt="Offer prices relative to the 52-week high by Noise"
       style="
         display: block;
         width: 100%;
         height: auto;
+        margin: 0 auto;
         box-sizing: border-box;
-        padding: 12px;
         background: #ffffff;
-        border: 1px solid #e5e7eb;
-        border-radius: 8px;
+        border-radius: 6px;
       ">
   </a>
+
+  <!-- Caption and Notes -->
   <figcaption style="
-    margin-top: 8px;
-    font-size: 0.82em;
-    color: #777777;
-    line-height: 1.5;
+    margin-top: 12px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: #555555;
   ">
-    Figure 1. Offer Prices Relative to the 52-Week High Price by \textit{Noise} 
-This figure presents histograms of the log percentage difference between the offer price and the target's 52-week high price. Panel (a) reports the full sample. Panels (b)--(d) partition the sample into terciles, quartiles, and quintiles of \textit{Noise}, respectively, and report the lowest- and highest-\textit{Noise} groups. The vertical dashed line at zero indicates an offer price equal to the target's 52-week high.
+    <!-- Figure title: centered -->
+    <div style="
+      text-align: center;
+      font-weight: 600;
+      margin-bottom: 8px;
+    ">
+      Figure 1. Offer Prices Relative to the 52-Week High Price by
+      <em>Noise</em>
+    </div>
+    <!-- Notes: new line, left aligned -->
+    <div style="
+      text-align: left;
+      font-weight: 400;
+    ">
+      <strong>Notes:</strong>
+      This figure presents histograms of the log percentage difference
+      between the offer price and the target's 52-week high price.
+      Panel (a) reports the full sample.
+      Panels (b)&ndash;(d) partition the sample into terciles,
+      quartiles, and quintiles of <em>Noise</em>, respectively,
+      and report the lowest- and highest-<em>Noise</em> groups.
+      The vertical dashed line at zero indicates an offer price
+      equal to the target's 52-week high.
+    </div>
   </figcaption>
 </figure>
+
 
 [A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
 - Main findings: This paper examines why some serial acquirers consistently outperform others through the lens of endogenous information production. Following a high-return acquisition, subsequent acquisition returns are higher when the previous deal generates improvements in the informativeness of the acquirer's stock price. The effect is concentrated among firms experiencing improvements in stock liquidity, consistent with information production alleviating financial frictions and helping sustain acquisition performance across successive deals.
