@@ -99,7 +99,6 @@ This research explores how information quality, information production, and lear
 [Share Price Noise and the 52-Week High Effect in M&A](https://drive.google.com/file/d/1i0QTdoGMnttnxHFrSVfVea26Ls04gZNa/view?usp=drive_link){:target="_blank" } (with Leonidas G. Barbopoulos, Yue Liu, and Jo Danbolt). _Working Paper_.
 - Main findings: This paper examines how the informational composition of target stock prices shapes reference-point dependence in takeover pricing and outcomes. A higher share of price noise strengthens the sensitivity of takeover premiums to the target's 52-week high, but the associated bidder announcement-return penalty disappears, while the completion advantage of offers above the 52-week high weakens. The amplification effect is concentrated among undervalued targets, suggesting that stronger reference-point dependence in noisier information environments does not necessarily imply bidder overpayment.
 - Presentations: AFA2025-Poster, EFMA2025, FMA2025
-
 <figure style="
   display: block;
   width: 100%;
@@ -159,6 +158,80 @@ This research explores how information quality, information production, and lear
 
 [A Win-to-win Explanation of Extraordinary Acquirers](https://drive.google.com/file/d/1zAFkscCTH0avC7iFt44_ZkrethvgdwDa/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
 - Main findings: This paper examines why some serial acquirers consistently outperform others through the lens of endogenous information production. Following a high-return acquisition, subsequent acquisition returns are higher when the previous deal generates improvements in the informativeness of the acquirer's stock price. The effect is concentrated among firms experiencing improvements in stock liquidity, consistent with information production alleviating financial frictions and helping sustain acquisition performance across successive deals.
+<figure style="
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 24px auto 32px auto;
+  padding: 0;
+  float: none;
+  text-align: center;
+  color: inherit;
+">
+  <!-- Two images side by side -->
+  <div style="
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    width: 100%;
+    margin: 0 auto;
+  ">
+    <img
+      src="{{ '/images/research/WinWin_1.png' | relative_url }}"
+      alt="Announced return pattern by prior deal performance"
+      style="
+        display: block;
+        width: calc(50% - 8px);
+        height: auto;
+        box-sizing: border-box;
+        background: #ffffff;
+        border-radius: 6px;
+      ">
+    <img
+      src="{{ '/images/research/WinWin_2.png' | relative_url }}"
+      alt="Announced return pattern by prior endogenous information production"
+      style="
+        display: block;
+        width: calc(50% - 8px);
+        height: auto;
+        box-sizing: border-box;
+        background: #ffffff;
+        border-radius: 6px;
+      ">
+  </div>
+  <!-- Caption and Notes -->
+  <figcaption style="
+    margin-top: 12px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: inherit;
+  ">
+    <div style="
+      text-align: center;
+      font-weight: 600;
+      margin-bottom: 8px;
+    ">
+      Figure. Announced Return Pattern and Endogenous Information Production
+    </div>
+    <div style="
+      text-align: left;
+      font-weight: 400;
+    ">
+      <strong>Notes:</strong>
+      This figure illustrates how endogenous information production reshapes the declining return pattern across successive deals for serial acquirers after removing overlapping deals.
+      Panel (a) shows how the acquirer’s prior deal performance affects the relation between bidder announcement returns and deal sequence number.
+      Panel (b) shows how the acquirer’s prior endogenous information production affects this relation.
+      In both panels, the black solid line plots the overall return pattern across deal sequence numbers, following Fuller et al. (2002).
+      The green dashed line plots the return pattern for acquirers whose prior deal has high performance in Panel (a) or high endogenous information production in Panel (b).
+      The red dotted line plots the corresponding pattern for acquirers whose prior deal has low performance in Panel (a) or endogenous information destruction in Panel (b).
+      Prior deal performance is measured by CAR<sub>L1</sub>.
+      High (low) performance is defined as CAR<sub>L1</sub> being one standard deviation above (below) the sample mean.
+      Endogenous information production (destruction) is defined as a prior deal with high (low) performance and positive (negative) information production.
+    </div>
+  </figcaption>
+</figure>
 
 
 ### 3. Financing and Contracting in M&A
