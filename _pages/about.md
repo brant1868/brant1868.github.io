@@ -127,7 +127,7 @@ This research explores how information quality, information production, and lear
     margin-top: 12px;
     font-size: 0.85em;
     line-height: 1.6;
-    color: #555555;
+    color: inherit;
   ">
     <!-- Figure title: centered -->
     <div style="
