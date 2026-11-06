@@ -80,11 +80,158 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
 [Artificial Intelligence Capital and Complementary Acquisitions](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link){:target="_blank" } (Solo-authored). **Job Market Paper**.
 - Main findings: This paper develops a firm-level measure of AI capital stock by combining AI-skilled employment data with a capitalization model that separates the accumulated quantity of AI capital from its shadow price. Greater AI capital predicts a higher likelihood of acquisition and stronger subsequent demand for AI-skilled labor, beyond conventional measures of AI employment and other intangible capital. AI-rich acquirers are also more likely to select targets with AI-skilled employees, consistent with complementarity between accumulated AI capabilities and externally acquired human capital.
 - Presentations: International Finance and Banking Society Annual Conference (IFABS Ningbo) 2026
+<figure style="
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 24px auto 32px auto;
+  padding: 0;
+  float: none;
+  text-align: center;
+  color: inherit;
+">
+  <!-- Two images side by side -->
+  <div style="
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    width: 100%;
+    margin: 0 auto;
+  ">
+    <img
+      src="{{ '/images/research/AIMA_K_heatmap.svg' | relative_url }}"
+      alt="Average AI capital by industry and year"
+      style="
+        display: block;
+        width: calc(50% - 8px);
+        height: auto;
+        box-sizing: border-box;
+        background: #ffffff;
+        border-radius: 6px;
+      ">
+    <img
+      src="{{ '/images/research/AIMA_K_Size4.svg' | relative_url }}"
+      alt="AI capital by firm size and year"
+      style="
+        display: block;
+        width: calc(50% - 8px);
+        height: auto;
+        box-sizing: border-box;
+        background: #ffffff;
+        border-radius: 6px;
+      ">
+  </div>
+  <!-- Caption and Notes -->
+  <figcaption style="
+    margin-top: 12px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: inherit;
+  ">
+    <!-- Figure title -->
+    <div style="
+      text-align: center;
+      font-weight: 600;
+      margin-bottom: 8px;
+    ">
+      Figure. Distribution of AI Capital (K) Across Industries and Firm Sizes
+    </div>
+    <!-- Notes -->
+    <div style="
+      text-align: left;
+      font-weight: 400;
+    ">
+      <strong>Notes:</strong>
+      This figure illustrates the distribution of firm-level
+      AI capital (K) over time.
+      The left panel presents a heatmap of average AI capital
+      by industry and year.
+      The right panel shows the distribution of AI capital
+      across firm-size groups and years.
+    </div>
+  </figcaption>
+</figure>
 
 
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
 - Main findings: This paper develops novel firm-level measures of data assets by combining economic modelling with a large language model. Firms with greater data assets are more likely to undertake acquisitions, with the effect concentrated among large incumbents. The evidence is consistent with a defensive acquisition motive, particularly in industries populated by smaller data-rich firms, and is associated with lower bidder announcement returns. Improvements in information environments, market liquidity, and financing conditions provide additional channels through which data assets may facilitate inorganic growth.
 - Presentations: ABFR Doctoral Research Symposium 2026, FMA-Asia 2026, AsiaFA 2026, The Sydney Banking and Financial Stability Conference 2026 (SBFC), Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS London) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
+<figure style="
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 24px auto 32px auto;
+  padding: 0;
+  float: none;
+  text-align: center;
+  color: inherit;
+">
+  <!-- Two images side by side -->
+  <div style="
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    width: 100%;
+    margin: 0 auto;
+  ">
+    <img
+      src="{{ '/images/research/DataAsset_K_distri_heatmap_yearff12.png' | relative_url }}"
+      alt="Average Data capital by industry and year"
+      style="
+        display: block;
+        width: calc(50% - 8px);
+        height: auto;
+        box-sizing: border-box;
+        background: #ffffff;
+        border-radius: 6px;
+      ">
+    <img
+      src="{{ '/images/research/DataAsset_K_size_4.png' | relative_url }}"
+      alt="Data capital by firm size and year"
+      style="
+        display: block;
+        width: calc(50% - 8px);
+        height: auto;
+        box-sizing: border-box;
+        background: #ffffff;
+        border-radius: 6px;
+      ">
+  </div>
+  <!-- Caption and Notes -->
+  <figcaption style="
+    margin-top: 12px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: inherit;
+  ">
+    <!-- Figure title -->
+    <div style="
+      text-align: center;
+      font-weight: 600;
+      margin-bottom: 8px;
+    ">
+      Figure. Distribution of Data Capital (K) Across Industries and Firm Sizes
+    </div>
+    <!-- Notes -->
+    <div style="
+      text-align: left;
+      font-weight: 400;
+    ">
+      <strong>Notes:</strong>
+      This figure illustrates the distribution of firm-level
+      Data capital (K) over time.
+      The left panel presents a heatmap of average Data capital
+      by industry and year.
+      The right panel shows the distribution of Data capital
+      across firm-size groups and years.
+    </div>
+  </figcaption>
+</figure>
+
 
 [Data Assets, Organic Growth, and Efficiency](https://drive.google.com/file/d/1ie99rTEbM1nXDU970mZhnx3mpPh9ctxn/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: This paper examines how accumulated data assets shape firms' internal investment and operating efficiency. Firms with greater data assets invest more in physical capital and R&D, with the effect concentrated among smaller firms. Data assets are also associated with improved investment efficiency and operating performance. These findings highlight the role of data assets in facilitating organic growth, particularly among smaller firms.
