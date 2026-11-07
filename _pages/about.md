@@ -168,12 +168,7 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
       font-weight: 400;
     ">
       <strong>Notes:</strong>
-      This figure illustrates the distribution of firm-level
-      AI capital (K) over time.
-      The left panel presents a heatmap of average AI capital
-      by industry and year.
-      The right panel shows the distribution of AI capital
-      across firm-size groups and years.
+      This figure illustrates the distribution of firm-level AI capital (K) over time. The left panel presents a heatmap of average AI capital by industry and year. The right panel shows the distribution of AI capital across firm-size groups and years.
     </div>
   </figcaption>
 </figure>
@@ -269,12 +264,7 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
       font-weight: 400;
     ">
       <strong>Notes:</strong>
-      This figure illustrates the distribution of firm-level
-      data capital (K) over time.
-      The left panel presents a heatmap of average data capital
-      by industry and year.
-      The right panel shows the distribution of data capital
-      across firm-size groups and years.
+      This figure illustrates the distribution of firm-level data capital (K) over time. The left panel presents a heatmap of average data capital by industry and year. The right panel shows the distribution of data capital across firm-size groups and years.
     </div>
   </figcaption>
 </figure>
@@ -339,14 +329,7 @@ This research explores how information quality, information production, and lear
       font-weight: 400;
     ">
       <strong>Notes:</strong>
-      This figure presents histograms of the log percentage difference
-      between the offer price and the target's 52-week high price.
-      Panel (a) reports the full sample.
-      Panels (b)&ndash;(d) partition the sample into terciles,
-      quartiles, and quintiles of <em>Noise</em>, respectively,
-      and report the lowest- and highest-<em>Noise</em> groups.
-      The vertical dashed line at zero indicates an offer price
-      equal to the target's 52-week high.
+      This figure presents histograms of the log percentage difference between the offer price and the target's 52-week high price. Panel (a) reports the full sample. Panels (b)&ndash;(d) partition the sample into terciles, quartiles, and quintiles of <em>Noise</em>, respectively, and report the lowest- and highest-<em>Noise</em> groups. X-axis at zero indicates an offer price equal to the target's 52-week high price.
     </div>
   </figcaption>
 </figure>
@@ -416,15 +399,7 @@ This research explores how information quality, information production, and lear
       font-weight: 400;
     ">
       <strong>Notes:</strong>
-      This figure shows bidder announcement returns across successive
-      acquisitions.
-      Panel (a) distinguishes acquirers by prior-deal performance,
-      while Panel (b) distinguishes them by endogenous information production.
-      The black solid line represents the overall return pattern
-      (Fuller et al., 2002).
-      The green dashed and red dotted lines represent high and low
-      prior-deal performance (CAR) in Panel (a), and information production
-      and destruction in Panel (b), respectively.
+      This figure shows bidder announcement returns across successive acquisitions. Panel (a) distinguishes acquirers by prior-deal performance, while Panel (b) distinguishes them by endogenous information production. The black solid line represents the overall return pattern (Fuller et al., 2002). The green dashed and red dotted lines represent high and low prior-deal performance (CAR) in Panel (a), and information production and destruction in Panel (b), respectively.
     </div>
   </figcaption>
 </figure>
