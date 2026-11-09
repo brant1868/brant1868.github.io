@@ -469,7 +469,7 @@ This research explores how information quality, information production, and lear
       font-weight: 400;
     ">
       <strong>Notes:</strong>
-      This figure presents annual estimates around the American Inventors Protection Act (AIPA) for 1997&ndash;2005. The left panel shows coefficients on the interaction between acquirer absorptive capacity and year indicators in acquisition-likelihood regressions with firm and year fixed effects and controls. The right panel shows coefficients on interactions among acquirer absorptive capacity, target patent count, treatment status, and year indicators in matched acquirer&ndash;target regressions with deal fixed effects. Treated targets have an average pre-reform patent grant lag exceeding 18 months. Firm-level characteristics are fixed at their 2000 values. Dots indicate coefficient estimates, vertical bars denote 90% confidence intervals, and dashed lines mark zero and the reference year.
+      This figure presents annual estimates around the American Inventors Protection Act (AIPA) for 1997&ndash;2005. The left panel shows coefficients on the interaction between acquirer absorptive capacity and year indicators in acquisition-likelihood regressions. The right panel shows coefficients on interactions among acquirer absorptive capacity, target patent count, treatment status, and year indicators in matched acquirer&ndash;target regressions. Treated targets have an average pre-reform patent grant lag exceeding 18 months. Firm-level characteristics are fixed at their 2000 values. Dots indicate coefficient estimates, vertical bars denote 90% confidence intervals, and dashed lines mark zero and the omitted year 2000.
     </div>
   </figcaption>
 </figure>
