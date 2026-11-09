@@ -80,7 +80,7 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
 
 [Artificial Intelligence Capital and Complementary Acquisitions](https://drive.google.com/file/d/1eEJXtEjiHfMUT3xGgAdIjF1kTW5GfF1e/view?usp=drive_link){:target="_blank" } (Solo-authored). **Job Market Paper**.
 - Main findings: This paper develops a firm-level measure of AI capital stock by combining AI-skilled employment data with a capitalization model that separates the accumulated quantity of AI capital from its shadow price. Greater AI capital predicts a higher likelihood of acquisition and stronger subsequent demand for AI-skilled labor, beyond conventional measures of AI employment and other intangible capital. AI-rich acquirers are also more likely to select targets with AI-skilled employees, consistent with complementarity between accumulated AI capabilities and externally acquired human capital.
-- Presentations: International Finance and Banking Society Annual Conference (IFABS Ningbo) 2026
+- Presentations: NTU Academy of AI for Business and Social Science Research Poster 2026, International Finance and Banking Society Annual Conference (IFABS Ningbo) 2026
 
 <figure style="
   display: block;
