@@ -405,6 +405,83 @@ This research explores how information quality, information production, and lear
 </figure>
 
 
+[Learning Without Owning: Absorptive Capacity and Corporate Acquisitions](https://drive.google.com/file/d/1IL041XKe8ivPDwu4g2SF3r2aYo2GxLZR/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
+- Main findings: This paper examines how firms' absorptive capacity shapes acquisition activity and target selection. It documents two contrasting patterns. Firms with greater absorptive capacity are more likely to undertake acquisitions. Yet, conditional on acquiring, they exhibit a lower relative preference for patent-rich targets. High-absorption acquirers also exhibit a stronger preference for targets with better operating performance and greater product-market similarity. The results suggest that absorptive capacity raises the benefits of integrating acquired assets while reducing the incremental knowledge benefits of owning patent-rich firms, thereby shaping both acquisition activity and corporate ownership decisions.
+<figure style="
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 24px auto 32px auto;
+  padding: 0;
+  float: none;
+  text-align: center;
+  color: inherit;
+">
+  <!-- Two AIPA figures side by side -->
+  <div style="
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    width: 100%;
+    margin: 0 auto;
+  ">
+    <!-- Left panel: Acquisition likelihood -->
+      <img
+        src="{{ '/images/research/LearnOwn_AIPA_base_parallel_firm_fe.png' | relative_url }}"
+        alt="AIPA: Absorptive capacity and acquisition likelihood"
+        style="
+          display: block;
+          width: 100%;
+          height: auto;
+          margin: 0;
+          box-sizing: border-box;
+          background: #ffffff;
+          border-radius: 6px;
+        ">
+    </a>
+    <!-- Right panel: Patent-rich target selection -->
+      <img
+        src="{{ '/images/research/LearnOwn_AIPA_pair_parallel_np_Controls.png' | relative_url }}"
+        alt="AIPA: Absorptive capacity and patent-rich target selection"
+        style="
+          display: block;
+          width: 100%;
+          height: auto;
+          margin: 0;
+          box-sizing: border-box;
+          background: #ffffff;
+          border-radius: 6px;
+        ">
+    </a>
+  </div>
+  <!-- Caption and Notes -->
+  <figcaption style="
+    margin-top: 12px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: inherit;
+  ">
+    <!-- Figure title -->
+    <div style="
+      text-align: center;
+      font-weight: 600;
+      margin-bottom: 8px;
+    ">
+      Figure. Absorptive Capacity and Acquisition Decisions Around AIPA
+    </div>
+    <!-- Notes -->
+    <div style="
+      text-align: left;
+      font-weight: 400;
+    ">
+      <strong>Notes:</strong>
+      This figure presents annual estimates around the American Inventors Protection Act (AIPA) for 1997&ndash;2005. The left panel shows coefficients on the interaction between acquirer absorptive capacity and year indicators in acquisition-likelihood regressions with firm and year fixed effects and controls. The right panel shows coefficients on interactions among acquirer absorptive capacity, target patent count, treatment status, and year indicators in matched acquirer&ndash;target regressions with deal fixed effects. Treated targets have an average pre-reform patent grant lag exceeding 18 months. Firm-level characteristics are fixed at their 2000 values, and 2000 is the omitted year. Dots indicate coefficient estimates, vertical bars denote 90% confidence intervals, and dashed lines mark zero and the reference year.
+    </div>
+  </figcaption>
+</figure>
+
 
 ### 3. Financing and Contracting in M&A
 My research investigates how corporate financing arrangements and acquisition contracts influence merger activity and post-acquisition outcomes. I study how pre-existing convertible debt affects firms' acquisition decisions and how contingent payment provisions, such as earnouts, shape post-merger operating efficiency. This research highlights the role of financial flexibility and contractual design in facilitating acquisitions and influencing their real economic outcomes.
