@@ -406,6 +406,7 @@ This research explores how information quality, information production, and lear
 
 [Learning Without Owning: Absorptive Capacity and Corporate Acquisitions](https://drive.google.com/file/d/1IL041XKe8ivPDwu4g2SF3r2aYo2GxLZR/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: This paper examines how firms' absorptive capacity shapes acquisition activity and target selection. It documents two contrasting patterns. Firms with greater absorptive capacity are more likely to undertake acquisitions. Yet, conditional on acquiring, they exhibit a lower relative preference for patent-rich targets. High-absorption acquirers also exhibit a stronger preference for targets with better operating performance and greater product-market similarity. The results suggest that absorptive capacity raises the benefits of integrating acquired assets while reducing the incremental knowledge benefits of owning patent-rich firms, thereby shaping both acquisition activity and corporate ownership decisions.
+
 <figure style="
   display: block;
   width: 100%;
@@ -416,7 +417,7 @@ This research explores how information quality, information production, and lear
   text-align: center;
   color: inherit;
 ">
-  <!-- Two AIPA figures side by side -->
+  <!-- Two images side by side -->
   <div style="
     display: flex;
     flex-direction: row;
@@ -426,34 +427,28 @@ This research explores how information quality, information production, and lear
     width: 100%;
     margin: 0 auto;
   ">
-    <!-- Left panel: Acquisition likelihood -->
-      <img
-        src="{{ '/images/research/LearnOwn_AIPA_base_parallel_firm_fe.png' | relative_url }}"
-        alt="AIPA: Absorptive capacity and acquisition likelihood"
-        style="
-          display: block;
-          width: 100%;
-          height: auto;
-          margin: 0;
-          box-sizing: border-box;
-          background: #ffffff;
-          border-radius: 6px;
-        ">
-    </a>
-    <!-- Right panel: Patent-rich target selection -->
-      <img
-        src="{{ '/images/research/LearnOwn_AIPA_pair_parallel_np_Controls.png' | relative_url }}"
-        alt="AIPA: Absorptive capacity and patent-rich target selection"
-        style="
-          display: block;
-          width: 100%;
-          height: auto;
-          margin: 0;
-          box-sizing: border-box;
-          background: #ffffff;
-          border-radius: 6px;
-        ">
-    </a>
+    <img
+      src="{{ '/images/research/LearnOwn_AIPA_base_parallel_firm_fe.png' | relative_url }}"
+      alt="AIPA: Absorptive capacity and acquisition likelihood"
+      style="
+        display: block;
+        width: calc(50% - 8px);
+        height: auto;
+        box-sizing: border-box;
+        background: #ffffff;
+        border-radius: 6px;
+      ">
+    <img
+      src="{{ '/images/research/LearnOwn_AIPA_pair_parallel_np_Controls.png' | relative_url }}"
+      alt="AIPA: Absorptive capacity and patent-rich target selection"
+      style="
+        display: block;
+        width: calc(50% - 8px);
+        height: auto;
+        box-sizing: border-box;
+        background: #ffffff;
+        border-radius: 6px;
+      ">
   </div>
   <!-- Caption and Notes -->
   <figcaption style="
@@ -462,7 +457,6 @@ This research explores how information quality, information production, and lear
     line-height: 1.6;
     color: inherit;
   ">
-    <!-- Figure title -->
     <div style="
       text-align: center;
       font-weight: 600;
@@ -470,7 +464,6 @@ This research explores how information quality, information production, and lear
     ">
       Figure. Absorptive Capacity and Acquisition Decisions Around AIPA
     </div>
-    <!-- Notes -->
     <div style="
       text-align: left;
       font-weight: 400;
@@ -480,6 +473,7 @@ This research explores how information quality, information production, and lear
     </div>
   </figcaption>
 </figure>
+
 
 
 ### 3. Financing and Contracting in M&A
