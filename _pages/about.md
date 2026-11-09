@@ -174,7 +174,6 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
 </figure>
 
 
-
 [Firm-level Data Assets and Inorganic Growth](https://drive.google.com/file/d/18_bj7RDudriuxyp20cNe9Nx_aRuuybR3/view?usp=sharing){:target="_blank" } (with Leonidas G. Barbopoulos and Yue Liu). _Working Paper_.
 - Main findings: This paper develops novel firm-level measures of data assets by combining economic modelling with a large language model. Firms with greater data assets are more likely to undertake acquisitions, with the effect concentrated among large incumbents. The evidence is consistent with a defensive acquisition motive, particularly in industries populated by smaller data-rich firms, and is associated with lower bidder announcement returns. Improvements in information environments, market liquidity, and financing conditions provide additional channels through which data assets may facilitate inorganic growth.
 - Presentations: ABFR Doctoral Research Symposium 2026, FMA-Asia 2026, AsiaFA 2026, The Sydney Banking and Financial Stability Conference 2026 (SBFC), Greater China Area Finance Conference 2026 (accepted), International Finance and Banking Society Annual Conference (IFABS London) 2026, International Conference on Machine Learning in Finance and Econometrics (MLiFE) 2026
