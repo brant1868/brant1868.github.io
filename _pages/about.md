@@ -272,7 +272,7 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
 [Data Assets, Organic Growth, and Efficiency](https://drive.google.com/file/d/1ie99rTEbM1nXDU970mZhnx3mpPh9ctxn/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: This paper examines how accumulated data assets shape firms' internal investment and operating efficiency. Firms with greater data assets invest more in physical capital and R&D, with the effect concentrated among smaller firms. Data assets are also associated with improved investment efficiency and operating performance. These findings highlight the role of data assets in facilitating organic growth, particularly among smaller firms.
 
-<a style="text-decoration: none; cursor: text;">Artificial Intelligence Capital and Organic Growth: The Firm Size Paradox</a> (Solo-authored). _Work in Progress_
+<a style="text-decoration: none; cursor: text;">Artificial Intelligence Capital and Organic Growth: The Firm Size Paradox</a> (Solo-authored). _Work in Progress_.
 - Main findings: Artificial intelligence (AI) capital is concentrated among larger firms, yet its positive association with organic investment is stronger among smaller firms. These findings highlight a distinction between where technological capital accumulates and where it is most strongly associated with internal investment.
 
 
@@ -478,10 +478,12 @@ This research explores how information quality, information production, and lear
 ### 3. Financing and Contracting in M&A
 My research investigates how corporate financing arrangements and acquisition contracts influence merger activity and post-acquisition outcomes. I study how pre-existing convertible debt affects firms' acquisition decisions and how contingent payment provisions, such as earnouts, shape post-merger operating efficiency. This research highlights the role of financial flexibility and contractual design in facilitating acquisitions and influencing their real economic outcomes.
 
-Convertible Debt and Merger Activities (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos). _Work in Progress_.
+
+<a style="text-decoration: none; cursor: text;">Convertible Debt and Merger Activities</a> (with Leonidas G. Barbopoulos and Ioannis Paraskevopoulos). _Work in Progress_.
 - Main findings: This paper examines how firms' pre-existing convertible debt influences acquisition activity and outcomes. Firms with greater reliance on convertible debt are more likely to become acquirers, whereas conventional leverage exhibits the opposite relation. These findings highlight the distinct role of convertible debt in corporate financing and suggest that the composition of debt financing, rather than leverage alone, matters for firms' ability to pursue inorganic growth.
 
-The Efficiency Effect of Earnout Contracts in M&A (with Leonidas G. Barbopoulos and Peter Cincinelli). _Work in Progress_.
+
+<a style="text-decoration: none; cursor: text;">The Efficiency Effect of Earnout Contracts in M&A</a> (with Leonidas G. Barbopoulos and Peter Cincinelli). _Work in Progress_.
 - Main findings: This paper examines how contingent payment contracts influence post-acquisition operating efficiency. Acquisitions involving earnout provisions are associated with greater improvements in acquirer operating efficiency, particularly among smaller acquirers. These efficiency gains are not fully reflected in announcement-period stock returns, suggesting that acquisition contract design provides additional information about merger performance and can shape real post-acquisition outcomes.
 
 
