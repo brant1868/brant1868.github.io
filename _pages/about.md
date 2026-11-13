@@ -272,7 +272,10 @@ My research examines how firms' data assets and artificial intelligence (AI) cap
 [Data Assets, Organic Growth, and Efficiency](https://drive.google.com/file/d/1ie99rTEbM1nXDU970mZhnx3mpPh9ctxn/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: This paper examines how accumulated data assets shape firms' internal investment and operating efficiency. Firms with greater data assets invest more in physical capital and R&D, with the effect concentrated among smaller firms. Data assets are also associated with improved investment efficiency and operating performance. These findings highlight the role of data assets in facilitating organic growth, particularly among smaller firms.
 
+<!-- 
 <a style="text-decoration: none; cursor: text;">Artificial Intelligence Capital and Organic Growth: The Firm Size Paradox</a> (Solo-authored). _Work in Progress_.
+-->
+[Artificial Intelligence Capital and Organic Growth: The Firm Size Paradox](https://drive.google.com/file/d/1awVQAIe8XZzXWf0JcyB108UBToG1ONQL/view?usp=drive_link){:target="_blank" } (Solo-authored). _Working Paper_.
 - Main findings: Artificial intelligence (AI) capital is concentrated among larger firms, yet its positive association with organic investment is stronger among smaller firms. These findings highlight a distinction between where technological capital accumulates and where it is most strongly associated with internal investment.
 
 
